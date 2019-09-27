@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  organization = "Cambridge University Press"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  title = "Schaub, M., Gereke, J., & Baldassarri, D. (n.d.). Does Poverty Undermine Cooperation in Multiethnic Settings? Evidence from a Cooperative Investment Experiment. Journal of Experimental Political Science, 1-14. doi:10.1017/XPS.2019.19"
+  url = "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/does-poverty-undermine-cooperation-in-multiethnic-settings-evidence-from-a-cooperative-investment-experiment/F06AFA99B15771EF264F1E744ADB562F"
+  certificate_url = ""
+  date_start = "2019-07-04"
+  date_end = "2019-07-04"
   description = ""
 
 [[item]]
