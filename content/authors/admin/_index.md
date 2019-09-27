@@ -24,13 +24,8 @@ interests:
 - intergroup relations, migration and discrimination and cooperative behavior in modern societies
 
 education:
-  - course: Ph.D. at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy
-    institution: Bocconi University in Milan, Italy
-    year: 2012
-    
-  - course: Ph.D. in Social and Political Sciences
-    institution: European University Institute in Florence, Italy
-    year: 2012
+  - postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy
+  - Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
