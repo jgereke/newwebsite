@@ -41,7 +41,18 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Cologne, Germany"
   date_start = "2018-03-01"
-  date_end = "2018-06-01"
+  date_end = "2018-09-01"
   description = """"""
+  
+[[experience]]
+  title = "Instructor"
+  company = "Heinrich-Heine University"
+  company_url = ""
+  location = "Düsseldorf, Germany"
+  date_start = "2016-03-01"
+  date_end = "2016-09-01"
+  description = """"""
+  
+
 
 +++
