@@ -39,25 +39,25 @@ subtitle = ""
   description = "10%"
   
   [[feature]]
-  icon = "camera-retro"
+  icon = "globe-europe"
   icon_pack = "fas"
   name = "German"
-  description = "10%"
+  description = "native"
   
   [[feature]]
-  icon = "camera-retro"
+  icon = "globe-americas"
   icon_pack = "fas"
   name = "English"
-  description = "10%"
+  description = "fluent"
   
   [[feature]]
-  icon = "camera-retro"
+  icon = "globe-europe"
   icon_pack = "fas"
   name = "French"
   description = "10%"
   
   [[feature]]
-  icon = "camera-retro"
+  icon = "globe-europe"
   icon_pack = "fas"
   name = "Italian"
   description = "10%"
