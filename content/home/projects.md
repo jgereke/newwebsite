@@ -12,17 +12,6 @@ subtitle = ""
   # Page type to display. E.g. project.
   page_type = "project"
   
-  [[content]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  tag = "Deep Learning"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
-  description = ""
-  
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -36,6 +25,15 @@ subtitle = ""
     name = "All"
     tag = "*"
   
+  [[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
   
   [[content.filter_button]]
     name = "Deep Learning"
