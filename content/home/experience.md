@@ -22,14 +22,14 @@ date_format = "Jan 2006"
   company = "MZES"
   company_url = "https://www.mzes.uni-mannheim.de/d7/en"
   location = "Mannheim, Germany"
-  date_start = "2018-12"
+  date_start = "2018-12-01"
   date_end = ""
   description = """
-  # Responsibilities include:
+  Responsibilities include:
   
-  # * Analysing
-  # * Modelling
-  # * Deploying
+  * Analysing
+  * Modelling
+  * Deploying
   """
 
 [[experience]]
@@ -37,8 +37,8 @@ date_format = "Jan 2006"
   company = "Bocconi University, Italy"
   company_url = ""
   location = "Milan, Italy"
-  date_start = "2016-07"
-  date_end = "2018-11"
-  # description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2016-07-01"
+  date_end = "2018-11-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
