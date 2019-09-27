@@ -15,10 +15,10 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "exchange-alt"
   icon_pack = "fab"
   name = "STATA"
-  description = "90%"
+  description = ""
   
 [[feature]]
   icon = "chart-line"
@@ -54,12 +54,12 @@ subtitle = ""
   icon = "globe-europe"
   icon_pack = "fas"
   name = "French"
-  description = "10%"
+  description = "intermediate"
   
   [[feature]]
   icon = "globe-europe"
   icon_pack = "fas"
   name = "Italian"
-  description = "10%"
+  description = "basic"
 
 +++
