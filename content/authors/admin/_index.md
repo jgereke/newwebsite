@@ -51,9 +51,9 @@ social:
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "johanna.gereke@mzes.uni-mannheim.de"
@@ -73,6 +73,6 @@ Other research projects examine biased beliefs and superstitions in migration de
 
 
 
-Please see my full CV <a href="https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf"> 
+Please see my full CV <a href="https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf"/> 
   here.
  
