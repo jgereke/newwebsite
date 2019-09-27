@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kondratyuk.ganna@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:johanna.gereke@mzes.uni-mannheim.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -56,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "kondratyuk.ganna@gmail.com"
+email: "johanna.gereke@mzes.uni-mannheim.de"
 #"johanna.gereke@mzes.uni-mannheim.de"
 #Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy #at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, #Italy.
   
@@ -73,6 +73,6 @@ Other research projects examine biased beliefs and superstitions in migration de
 
 
 
-Please see my full CV here.
+Please see my full CV here [https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf]. 
 
  
