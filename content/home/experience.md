@@ -35,4 +35,13 @@ date_format = "Jan 2006"
   date_end = "2018-11-01"
   description = """"""
 
+[[experience]]
+  title = "Instructor Global Study Program"
+  company = "University of Cologne"
+  company_url = ""
+  location = "Cologne, Germany"
+  date_start = "2018-03-01"
+  date_end = "2018-06-01"
+  description = """"""
+
 +++
