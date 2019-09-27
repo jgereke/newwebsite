@@ -18,14 +18,24 @@ organizations:
   url: "https://www.mzes.uni-mannheim.de/d7/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include intergroup relations, migration and discrimination and cooperative behavior in modern societies.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- intergroup relations, migration and discrimination and cooperative behavior in modern societies
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
-  - postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy
-  - Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
