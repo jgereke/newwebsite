@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: research fellow at the the Mannheim Centre for European Social Research (MZES)
+role: research fellow at MZES
 
 # Organizations/Affiliations
 organizations:
-- name: Mannheim Centre for European Social Research (MZES)
+- name: Mannheim Centre for European Social Research
   url: "https://www.mzes.uni-mannheim.de/d7/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include intergroup relations, migration and discrimination and cooperative behavior in modern societies.
 
 interests:
 - Artificial Intelligence
