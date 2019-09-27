@@ -73,6 +73,6 @@ Other research projects examine biased beliefs and superstitions in migration de
 
 
 
-Please see my full CV here <a href="https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf">. 
-
+Please see my full CV <a href="https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf">. 
+here 
  
