@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "University of Cologne"
   company_url = ""
   location = "Cologne, Germany"
-  date_start = "2018-03-01"
-  date_end = "2018-09-30"
+  date_start = "2018-03"
+  date_end = "2018-09"
   description = """Instruction topic: Migration and Integration in the 21st Century"""
   
 [[experience]]
@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   company = "Heinrich-Heine University"
   company_url = ""
   location = "Düsseldorf"
-  date_start = "2016-03-01"
-  date_end = "2016-09-31"
+  date_start = "2016-03"
+  date_end = "2016-09"
   description = """"""
 
 [[experience]]
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   company = "European University Institute"
   company_url = ""
   location = "Milan, Italy"
-  date_start = "2015-01-01"
-  date_end = "2016-12-01"
+  date_start = "2015"
+  date_end = "2016"
   description = """Topic: Migration and Citizenship"""
 
 +++
