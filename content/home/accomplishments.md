@@ -37,15 +37,5 @@ date_format = "Jan 2006"
   date_start = "2018-07-18"
   date_end = "2018-07-18"
   description = "Several scholars have concluded that ethnic diversity has negative consequences for social trust. However, recent research has called into question whether ethnic diversity per se has detrimental effects, or whether lower levels of trust in diverse communities simply reflect a higher concentration of less trusting groups, such as poor people, minorities, or immigrants. Drawing upon a nationally representative sample of the German population (GSOEP), we make two contributions to this debate. First, we examine how ethnic diversity at the neighborhood level–specifically the proportion of immigrants in the neighborhood–is linked to social trust focusing on the compositional effect of poverty. Second, in contrast to the majority of current research on ethnic diversity, we use a behavioral measure of trust in combination with fine-grained (zip-code level) contextual measures of ethnic composition and poverty. Furthermore, we are also able to compare the behavioral measure to a standard attitudinal trust question. We find that household poverty partially accounts for lower levels of trust, and that after controlling for income, German and non-German respondents are equally trusting. However, being surrounded by neighbors with immigrant background is also associated with lower levels of social trust."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
 
 +++
