@@ -22,8 +22,6 @@ bio: My research interests include intergroup relations, migration and discrimin
 
 interests:
 - intergroup relations, migration and discrimination and cooperative behavior in modern societies
-- Computational Linguistics
-- Information Retrieval
 
 education:
   courses:
@@ -67,6 +65,12 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a research fellow at the the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration and discrimination and cooperative behavior in modern societies.
+
+Other research projects examine biased beliefs and superstitions in migration decision-making, the socio-economic foundations and consequences of trust and risk attitudes, and the link between physical attractiveness and immigrants'  integration outcomes. My research draws on a range of  experimental and quasi-experimental methods, including original lab-in-the-field, survey, and field experiments in Italy, Germany, the United States and Thailand.
+
+Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
+
+Please see my full CV here.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
