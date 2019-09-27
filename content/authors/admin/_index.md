@@ -27,11 +27,11 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Postdoctoral researcher at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy
+    institution: Bocconi University in Milan, Italy
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Ph.D. in Social and Political Sciences
+    institution: European University Institute in Florence, Italy
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
