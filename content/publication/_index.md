@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: "J. Gereke, K. Grxhani,, “Experimental Economics and Experimental Sociology” for the Oxford Research Encyclopedia of Economics and Finance, forthcoming. "
+  image: "static/img/avarar.jpg"
 ---
