@@ -53,6 +53,15 @@ date_format = "Jan 2006"
   date_end = "2016-09-01"
   description = """"""
   
+[[experience]]
+  title = "Teaching Assistant"
+  company = "European University Institute"
+  company_url = ""
+  location = "Milan, Italy"
+  date_start = "2015-01-01"
+  date_end = "2016-12-01"
+  description = """"""
+  
 
 
 +++
