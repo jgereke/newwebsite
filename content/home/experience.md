@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "University of Cologne"
   company_url = ""
   location = "Cologne, Germany"
-  date_start = "2018-03"
-  date_end = "2018-09"
+  date_start = "Summer Term 2018"
+  date_end = "Summer Term 2018"
   description = """Instruction topic: Migration and Integration in the 21st Century"""
   
 [[experience]]
@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   company = "Heinrich-Heine University"
   company_url = ""
   location = "Düsseldorf"
-  date_start = "2016-03"
-  date_end = "2016-09"
+  date_start = "Summer Term 2016"
+  date_end = "Summer Term 2016"
   description = """"""
 
 [[experience]]
