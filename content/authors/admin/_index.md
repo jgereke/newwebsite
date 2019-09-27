@@ -59,6 +59,8 @@ social:
 email: "johanna.gereke@mzes.uni-mannheim.de"
 #"johanna.gereke@mzes.uni-mannheim.de"
 #Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy #at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, #Italy.
+#Please see my full CV <a #href="https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf"/> 
+#  here.
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -73,6 +75,5 @@ Other research projects examine biased beliefs and superstitions in migration de
 
 
 
-Please see my full CV <a href="https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf"/> 
-  here.
+
  
