@@ -56,7 +56,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "johanna.gereke@mzes.uni-mannheim.de"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,7 +69,7 @@ I'm a research fellow at the the Mannheim Centre for European Social Research (M
 
 Other research projects examine biased beliefs and superstitions in migration decision-making, the socio-economic foundations and consequences of trust and risk attitudes, and the link between physical attractiveness and immigrants'  integration outcomes. My research draws on a range of  experimental and quasi-experimental methods, including original lab-in-the-field, survey, and field experiments in Italy, Germany, the United States and Thailand.
 
-Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
+#Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy #at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, #Italy.
 
 Please see my full CV here.
 
