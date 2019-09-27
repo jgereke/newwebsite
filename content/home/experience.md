@@ -27,12 +27,30 @@ date_format = "Jan 2006"
   description = """"""
 
 [[experience]]
-  title = "Postdoctoral Fellow"
-  company = "Bocconi University, Italy"
+  title = "Instructor Global Study Program"
+  company = "University of Cologne"
+  company_url = ""
+  location = "Cologne, Germany"
+  date_start = "Summer Term 2018"
+  date_end = "Summer Term 2018"
+  description = """Instruction topic: Migration and Integration in the 21st Century"""
+  
+[[experience]]
+  title = "Instructor"
+  company = "Heinrich-Heine University"
+  company_url = ""
+  location = "Düsseldorf"
+  date_start = "Summer Term 2016"
+  date_end = "Summer Term 2016"
+  description = """"""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "European University Institute"
   company_url = ""
   location = "Milan, Italy"
-  date_start = "2016-07-01"
-  date_end = "2018-11-01"
-  description = """"""
+  date_start = "2015"
+  date_end = "2016"
+  description = """Topic: Migration and Citizenship"""
 
 +++
