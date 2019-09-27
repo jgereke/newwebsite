@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Johanna Gereke
+name: Nelson Bighetti
 
 # Username (this should match the folder name)
 authors:
@@ -10,46 +10,55 @@ authors:
 superuser: true
 
 # Role/position
-role: research fellow at the the Mannheim Centre for European Social Research (MZES)
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Mannheim Centre for European Social Research (MZES)
-  url: "https://www.mzes.uni-mannheim.de/d7/en"
+- name: Stanford University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- intergroup relations, migration and discrimination and cooperative behavior in modern societies
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 education:
-  - postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy
-  - Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
-  
+  courses:
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,10 +70,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a research fellow at the the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration and discrimination and cooperative behavior in modern societies.
+Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Other research projects examine biased beliefs and superstitions in migration decision-making, the socio-economic foundations and consequences of trust and risk attitudes, and the link between physical attractiveness and immigrants'  integration outcomes. My research draws on a range of  experimental and quasi-experimental methods, including original lab-in-the-field, survey, and field experiments in Italy, Germany, the United States and Thailand.
-
-Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
-
-Please see my full CV here.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
