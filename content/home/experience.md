@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Fellow"
-  company = "MZES"
+  company = "Mannheim Centre for European Social Research"
   company_url = "https://www.mzes.uni-mannheim.de/d7/en"
   location = "Mannheim, Germany"
   date_start = "2018-12-01"
