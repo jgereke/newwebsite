@@ -27,10 +27,10 @@ education:
   courses:
   - course: Postdoctoral researcher at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy
     institution: Bocconi University in Milan, Italy
-    year: 2012
+    year: 2018
   - course: Ph.D. in Social and Political Sciences
     institution: European University Institute in Florence, Italy
-    year: 2009
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -58,6 +58,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kondratyuk.ganna@gmail.com"
 #"johanna.gereke@mzes.uni-mannheim.de"
+#Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy #at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, #Italy.
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,7 +71,7 @@ I'm a research fellow at the the Mannheim Centre for European Social Research (M
 
 Other research projects examine biased beliefs and superstitions in migration decision-making, the socio-economic foundations and consequences of trust and risk attitudes, and the link between physical attractiveness and immigrants'  integration outcomes. My research draws on a range of  experimental and quasi-experimental methods, including original lab-in-the-field, survey, and field experiments in Italy, Germany, the United States and Thailand.
 
-#Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy #at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, #Italy.
+
 
 Please see my full CV here.
 
