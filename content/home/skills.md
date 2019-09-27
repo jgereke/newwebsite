@@ -17,19 +17,49 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "STATA"
   description = "90%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "Qualtrics"
   description = "100%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "LaTeX"
+  description = "10%"
+  
+  [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "OTree"
+  description = "10%"
+  
+  [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "German"
+  description = "10%"
+  
+  [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "English"
+  description = "10%"
+  
+  [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "French"
+  description = "10%"
+  
+  [[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Italian"
   description = "10%"
 
 +++
