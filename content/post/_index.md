@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "M. Schaub, J. Gereke, D. Baldassarri, “Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support”, under review."
   image: ""
 ---
