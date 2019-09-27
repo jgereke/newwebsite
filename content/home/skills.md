@@ -21,7 +21,7 @@ subtitle = ""
   description = ""
   
 [[feature]]
-  icon = "comments"
+  icon = "exchange-alt"
   icon_pack = "fas"
   name = "Qualtrics"
   description = ""  
