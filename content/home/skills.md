@@ -15,28 +15,28 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "exchange-alt"
+  icon = "chart-line"
   icon_pack = "fab"
   name = "STATA"
   description = ""
   
 [[feature]]
-  icon = "chart-line"
+  icon = "comments"
   icon_pack = "fas"
   name = "Qualtrics"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "file-pdf"
   icon_pack = "fas"
   name = "LaTeX"
-  description = "10%"
+  description = ""
   
   [[feature]]
-  icon = "camera-retro"
+  icon = "python"
   icon_pack = "fas"
   name = "OTree"
-  description = "10%"
+  description = ""
   
   [[feature]]
   icon = "globe-europe"
