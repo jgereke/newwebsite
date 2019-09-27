@@ -16,7 +16,7 @@ subtitle = ""
 
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "STATA"
   description = ""
   
@@ -34,7 +34,7 @@ subtitle = ""
   
   [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "OTree"
   description = ""
   
