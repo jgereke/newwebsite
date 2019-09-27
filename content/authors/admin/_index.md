@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include intergroup relations, migration and discrimination and cooperative behavior in modern societies.
 
 interests:
-- Artificial Intelligence
+- intergroup relations, migration and discrimination and cooperative behavior in modern societies
 - Computational Linguistics
 - Information Retrieval
 
@@ -53,9 +53,9 @@ social:
   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
