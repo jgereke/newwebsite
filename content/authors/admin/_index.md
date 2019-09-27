@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: research fellow at the the Mannheim Centre for European Social Research (MZES)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Mannheim Centre for European Social Research (MZES)
+  url: "https://www.mzes.uni-mannheim.de/d7/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
