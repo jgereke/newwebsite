@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Düsseldorf, Germany"
   date_start = "2016-03-01"
-  date_end = "2016-09-01"
+  date_end = "2016-07-01"
   description = """"""
   
 [[experience]]
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Milan, Italy"
   date_start = "2015-01-01"
-  date_end = "2016-12-01"
+  date_end = "2016-03-01"
   description = """"""
   
 
