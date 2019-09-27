@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Mannheim, Germany"
   date_start = "2018-12-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """"""
 
 [[experience]]
   title = "Postdoctoral Fellow"
@@ -39,6 +33,6 @@ date_format = "Jan 2006"
   location = "Milan, Italy"
   date_start = "2016-07-01"
   date_end = "2018-11-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """"""
 
 +++
