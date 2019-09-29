@@ -37,6 +37,18 @@ date_format = "Jan 2006"
   date_start = "2019-07-04"
   date_end = ""
   description = "Experimental economics has moved beyond the traditional focus on market mechanisms and the ‘invisible hand’ by applying sociological and socio-psychological knowledge in the study of rationality, markets, and efficiency. This knowledge includes social preferences, social norms and cross-cultural variation in motivations. In turn, the renewed interest in causation, social mechanisms and middle-range theories in sociology has led to a renaissance of research employing experimental methods. This includes laboratory experiments, but also a wide range of field experiments with diverse samples and settings. By focusing on a set of research topics that have proven to be of substantive interest to both disciplines - cooperation in social dilemmas, trust and trustworthiness, and social norms - this review aims to highlight innovative interdisciplinary research that connects experimental economics with experimental sociology. We conclude that experimental economics and experimental sociology can still learn much from each other, thus providing economists and sociologists with an opportunity to collaborate and advance our knowledge on a range of underexplored topics of interest to both disciplines."
+  
+ [[item]]
+  organization = "?"
+  organization_url = ""
+  title = "N. Zhang, J. Gereke, D. Baldassarri, “Discrimination is unaffected by immigrants’ socioeconomic status.""
+  url = ""
+  certificate_url = ""
+  date_start = "2019-07-04"
+  date_end = ""
+  description = "Despite considerable progress in combating ethnic and racial prejudice, ``subtle'' or covert forms of discrimination remain widespread across Western societies.  The persistence of discrimination poses distinct problems for nations undergoing immigration-related demographic change, as it is widely recognized that ethnic penalties can undermine intergroup relations and impede immigrants' social integration. Understanding the sources of discrimination thus becomes vital as societies adapt to immigration and increasing ethnic diversity. Against this backdrop, several prominent lines of research have suggested that improvements in immigrants’ socioeconomic status may contribute to reduced prejudice and discrimination. However, empirical tests of this proposition have been limited by a reliance upon attitudinal and self-reported measures which do not adequately account for differences in individuals' sensitivity or potential exposure to discrimination. To address these issues, we present findings from a randomized field experiment examining discrimination against high- and low-status immigrants in Milan, Italy.  Our experiment captures natives' physical avoidance of immigrants as an unobtrusive measure of contemporary covert discrimination. Contrary to the hypothesis that discrimination decreases with immigrants' socioeconomic status, we find that natives are equally averse to contact with high- and low-status immigrants. Further exploratory analysis reveals this effect to be driven by native women avoiding immigrant men. We link these results to an understanding of contemporary discrimination rooted in theories of intergroup anxiety. We further discuss the implications of these findings for improving interethnic relations in multicultural societies."
+  
+ 
 
 
 
