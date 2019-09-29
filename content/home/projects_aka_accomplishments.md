@@ -31,16 +31,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Oxford Research Encyclopedia of Economics and Finance"
   organization_url = ""
-  title = "J. Gereke, K. Gërxhani,, “Experimental Economics and Experimental Sociology” for the Oxford Research Encyclopedia of Economics and Finance, forthcoming. "
+  title = "J. Gereke, K. Gërxhani,, “Experimental Economics and Experimental Sociology” for the Oxford Research Encyclopedia of Economics and Finance, forthcoming."
   url = ""
   certificate_url = ""
   date_start = "2019-07-04"
-  date_end = "2019-07-04"
-  description = "Experimental economics has moved beyond the traditional focus on market mechanisms and the ‘invisible hand’ by applying sociological and socio-psychological knowledge in the study of rationality, markets, and efficiency. This knowledge includes social preferences, social norms and cross-cultural variation in motivations. In turn, the renewed interest in causation, social mechanisms and middle-range theories in sociology has led to a renaissance of research employing experimental methods. This includes laboratory experiments, but also a wide range of field experiments with diverse samples and settings. By focusing on a set of research topics that have proven to be of substantive interest to both disciplines - cooperation in social dilemmas, trust and trustworthiness, and social norms - this review aims to highlight innovative interdisciplinary research that connects experimental economics with experimental sociology. We conclude that experimental economics and experimental sociology can still learn much from each other, thus providing economists and sociologists with an opportunity to collaborate and advance our knowledge on a range of underexplored topics of interest to both disciplines.
-  
- 
-
-"
+  date_end = ""
+  description = "Experimental economics has moved beyond the traditional focus on market mechanisms and the ‘invisible hand’ by applying sociological and socio-psychological knowledge in the study of rationality, markets, and efficiency. This knowledge includes social preferences, social norms and cross-cultural variation in motivations. In turn, the renewed interest in causation, social mechanisms and middle-range theories in sociology has led to a renaissance of research employing experimental methods. This includes laboratory experiments, but also a wide range of field experiments with diverse samples and settings. By focusing on a set of research topics that have proven to be of substantive interest to both disciplines - cooperation in social dilemmas, trust and trustworthiness, and social norms - this review aims to highlight innovative interdisciplinary research that connects experimental economics with experimental sociology. We conclude that experimental economics and experimental sociology can still learn much from each other, thus providing economists and sociologists with an opportunity to collaborate and advance our knowledge on a range of underexplored topics of interest to both disciplines."
 
 
 
