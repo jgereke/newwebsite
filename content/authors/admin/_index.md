@@ -69,9 +69,10 @@ user_groups:
 - Visitors
 ---
 
-I'm a research fellow at the the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration and discrimination and cooperative behavior in modern societies.
+I am a postdoctoral research fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration. discrimination and cooperative behavior in modern societies.
+Other research projects examine biased beliefs and superstitions in migration decision-making, the link between physical attractiveness and immigrants’ integration outcomes and the relationship between unemployment, poverty and prosociality, political engagement and trust.  My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
+Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
 
-Other research projects examine biased beliefs and superstitions in migration decision-making, the socio-economic foundations and consequences of trust and risk attitudes, and the link between physical attractiveness and immigrants'  integration outcomes. My research draws on a range of  experimental and quasi-experimental methods, including original lab-in-the-field, survey, and field experiments in Italy, Germany, the United States and Thailand.
 
 
 
