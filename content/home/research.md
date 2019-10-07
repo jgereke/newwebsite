@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "M. Schaub, J. Gereke, D. Baldassarri"
   organization_url = ""
-  title = "“Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support”"
+  title = "Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support"
   url = "https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5d67aeed87dacd00010c0f6f/1567076198572/Schaub%2C+Gereke%2C+Baldassarri+2019+Refugees+WP.pdf"
   certificate_url = ""
   date_start = "2019-08-01"
