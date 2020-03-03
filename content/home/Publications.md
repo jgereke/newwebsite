@@ -1,71 +1,41 @@
 +++
-# A Recent Publications section created with the Pages widget.
-# This section displays recent blog posts from `content/publication/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-  
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-    
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+[[item]]
+  organization = "Cambridge University Press, Journal of Experimental Political Science, 1-14."
+  organization_url = ""
+  title = "Schaub, M., Gereke, J., & Baldassarri, D. (n.d.). Does Poverty Undermine Cooperation in Multiethnic Settings? Evidence from a Cooperative Investment Experiment."
+  url = "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/does-poverty-undermine-cooperation-in-multiethnic-settings-evidence-from-a-cooperative-investment-experiment/F06AFA99B15771EF264F1E744ADB562F"
+  certificate_url = ""
+  date_start = "2019-07-04"
+  date_end = ""
+  description = "What undermines cooperation in ethnically diverse communities? Scholars have focused on factors that explain the lack of inter-ethnic cooperation, such as prejudice or the difficulty to communicate and sanction across group boundaries. We direct attention to the fact that diverse communities are also often poor and ask whether poverty, rather than diversity, reduces cooperation. We developed a strategic cooperation game where we vary the income and racial identity of the interaction partner. We find that beliefs about how poor people behave have clear detrimental effects on cooperation: cooperation is lower when people are paired with low-income partners, and the effect is particularly strong when low-income people interact among themselves. We observe additional discrimination along racial lines when the interaction partner is poor. These findings imply that poverty and rising inequality may be a serious threat to social cohesion, especially under conditions of high socioeconomic segregation."
 
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+[[item]]
+  organization = "PLoS ONE 13(7): e0199834."
+  organization_url = ""
+  title = "Gereke J, Schaub M, Baldassarri D (2018) Ethnic diversity, poverty and social trust in Germany: Evidence from a behavioral measure of trust."
+  url = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0199834"
+  certificate_url = ""
+  date_start = "2018-07-18"
+  date_end = ""
+  description = "Several scholars have concluded that ethnic diversity has negative consequences for social trust. However, recent research has called into question whether ethnic diversity per se has detrimental effects, or whether lower levels of trust in diverse communities simply reflect a higher concentration of less trusting groups, such as poor people, minorities, or immigrants. Drawing upon a nationally representative sample of the German population (GSOEP), we make two contributions to this debate. First, we examine how ethnic diversity at the neighborhood level–specifically the proportion of immigrants in the neighborhood–is linked to social trust focusing on the compositional effect of poverty. Second, in contrast to the majority of current research on ethnic diversity, we use a behavioral measure of trust in combination with fine-grained (zip-code level) contextual measures of ethnic composition and poverty. Furthermore, we are also able to compare the behavioral measure to a standard attitudinal trust question. We find that household poverty partially accounts for lower levels of trust, and that after controlling for income, German and non-German respondents are equally trusting. However, being surrounded by neighbors with immigrant background is also associated with lower levels of social trust."
+
 +++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
