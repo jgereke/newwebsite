@@ -54,15 +54,6 @@ date_format = "Jan 2006"
   description = """"""
   
 [[experience]]
-  title = "Instructor"
-  company = "Heinrich-Heine University"
-  company_url = "https://www.uni-duesseldorf.de/home/en/home.html"
-  location = "Düsseldorf, Germany"
-  date_start = "2016-06-01"
-  date_end = "2016-07-01"
-  description = """"""
-  
-[[experience]]
   title = "Teaching Assistant"
   company = "European University Institute"
   company_url = "https://www.eui.eu/"
