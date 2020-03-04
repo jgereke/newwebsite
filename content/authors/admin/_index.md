@@ -21,7 +21,11 @@ organizations:
 bio: My research interests include intergroup relations, migration and discrimination and cooperative behavior in modern societies.
 
 interests:
-- intergroup relations, migration and discrimination and cooperative behavior in modern societies
+- intergroup relations 
+- migration  
+- discrimination 
+- trust and cooperation
+- poverty and inequality
 
 education:
   courses:
