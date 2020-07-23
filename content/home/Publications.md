@@ -49,6 +49,15 @@ date_format = "Jan 2006"
   description = "What undermines cooperation in ethnically diverse communities? Scholars have focused on factors that explain the lack of inter-ethnic cooperation, such as prejudice or the difficulty to communicate and sanction across group boundaries. We direct attention to the fact that diverse communities are also often poor and ask whether poverty, rather than diversity, reduces cooperation. We developed a strategic cooperation game where we vary the income and racial identity of the interaction partner. We find that beliefs about how poor people behave have clear detrimental effects on cooperation: cooperation is lower when people are paired with low-income partners, and the effect is particularly strong when low-income people interact among themselves. We observe additional discrimination along racial lines when the interaction partner is poor. These findings imply that poverty and rising inequality may be a serious threat to social cohesion, especially under conditions of high socioeconomic segregation."
   
 [[item]]
+  organization = "Oxford research encyclopedia: economics and finance."
+  organization_url = ""
+  title = "Gereke, J., & Gërxhani, K. Experimental Economics and Experimental Sociology"
+  url = "https://oxfordre.com/economics/view/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-462"
+  date_start = "2019-11-01"
+  date_end = ""
+  description = "Experimental economics has moved beyond the traditional focus on market mechanisms and the “invisible hand” by applying sociological and socio-psychological knowledge in the study of rationality, markets, and efficiency. This knowledge includes social preferences, social norms, and cross-cultural variation in motivations. In turn, the renewed in­ terest in causation, social mechanisms, and middle-range theories in sociology has led to a renaissance of research employing experimental methods. This includes laboratory experiments but also a wide range of field experiments with diverse samples and settings. By focusing on a set of research topics that have proven to be of substantive interest to both disciplines—cooperation in social dilemmas, trust and trustworthiness, and social norms—this article highlights innovative interdisciplinary research that connects experimental economics with experimental sociology. Experimental economics and experimental sociology can still learn much from each other, providing economists and sociologists with an opportunity to collaborate and advance knowledge on a range of underexplored topics of interest to both disciplines."
+    
+[[item]]
   organization = "PLoS ONE 13(7): e0199834."
   organization_url = ""
   title = "Gereke J, Schaub M, Baldassarri D (2018) Ethnic diversity, poverty and social trust in Germany: Evidence from a behavioral measure of trust."
