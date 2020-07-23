@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "N. Zhang, J. Gereke, D. Baldassarri"
   organization_url = ""
-  title = "Discrimination is unaffected by immigrants’ socioeconomic status."
+  title = "Everyday Discrimination in Public Spaces:A Field Experiment in the Milan Metro"
   url = ""
   certificate_url = ""
   date_start = "2019-07-04"
   date_end = ""
-  description = "Experimental economics has moved beyond the traditional focus on market mechanisms and the ‘invisible hand’ by applying sociological and socio-psychological knowledge in the study of rationality, markets, and efficiency. This knowledge includes social preferences, social norms and cross-cultural variation in motivations. In turn, the renewed interest in causation, social mechanisms and middle-range theories in sociology has led to a renaissance of research employing experimental methods. This includes laboratory experiments, but also a wide range of field experiments with diverse samples and settings. By focusing on a set of research topics that have proven to be of substantive interest to both disciplines - cooperation in social dilemmas, trust and trustworthiness, and social norms - this review aims to highlight innovative interdisciplinary research that connects experimental economics with experimental sociology. We conclude that experimental economics and experimental sociology can still learn much from each other, thus providing economists and sociologists with an opportunity to collaborate and advance our knowledge on a range of underexplored topics of interest to both disciplines."
+  description = "Discrimination  against  immigrants  and  ethnic  minorities  remains  widespread  acrossEuropean countries.  While a large scholarship has documented ethno-racial discrimi-nation in institutional settings such housing and labor markets, we know little aboutwhat drives discrimination across a broader range of day-to-day encounters.  This studyreports results from a large-scale field experiment examining the physical avoidance ofimmigrants  as  an  unobtrusive  yet  important  measure  of  everyday  discrimination  inItaly.  By varying confederates’ race as well as signals of socioeconomic status (busi-ness vs. casual attire), we can additionally shed light on the mechanisms underlyingdiscriminatory patterns.  We find that natives are averse to contact with Nigerian con-federates, but do not discriminate against Chinese confederates.  Further, manipulatingconfederates’ dress to signal high socioeconomic status has little effect on natives’ be-havior.  We discuss the implications of these findings for improving interracial contactin diverse societies."
  
  [[item]]
   organization = "Johanna Gereke, Daniel Auer (WZB) and Max Schaub (WZB)"
@@ -38,16 +38,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Beliefs in magic and superstitions have been observed to influence a range of outcomes, including warfare, business and electoral choice. In the context of migration, previous studies have documented the ubiquity of superstitious beliefs in influencing when, where and how aspiring migrants decide to undertake their journeys abroad.  Building on these findings, this study empirically investigates whether magical and superstitious beliefs influence the decision to migrate using an original longitudinal data set. We do so in the context of The Gambia, which has seen some of the highest migration rates in the world in recent years. We hypothesize that magical beliefs make individuals likely to underestimate the risk of the migratory journey, and make them more trusting of smugglers, who often betray this trust. In order to test these hypotheses, we ask 10,000 potential migrants who will be re-interviewed several times during a 6-months period. This  allows us to observe actual migration decisions, and to link these to beliefs in magic, risk attitudes and trust perceptions.   "
   
- [[item]]
-  organization = "Heiko Rauhut (Zürich University)"
-  organization_url = ""
-  title = "Book chapter on 'Public Goods and Collective Action' for 'Rational Choice' Theory Handbook "
-  url = ""
-  certificate_url = ""
-  date_start = "2019-07-04"
-  date_end = ""
-  description = ""
-
-
-
 +++
