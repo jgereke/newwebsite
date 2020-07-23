@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research"
+title = "Research In Progress"
 subtitle = ""
 
 # Date format
@@ -31,11 +31,29 @@ date_format = "Jan 2006"
  [[item]]
   organization = "Johanna Gereke, Daniel Auer (WZB) and Max Schaub (WZB)"
   organization_url = ""
-  title = "Migration, Magic, and the Risk of Dying: Evidence from real-time migration decisions in The Gambia (data collection ongoing)"
+  title = "Migration, Magic, and the Risk of Dying: Evidence from real-time migration decisions in The Gambia"
   url = ""
   certificate_url = ""
   date_start = "2020-07-23"
   date_end = ""
   description = "Beliefs in magic and superstitions have been observed to influence a range of outcomes, including warfare, business and electoral choice. In the context of migration, previous studies have documented the ubiquity of superstitious beliefs in influencing when, where and how aspiring migrants decide to undertake their journeys abroad.  Building on these findings, this study empirically investigates whether magical and superstitious beliefs influence the decision to migrate using an original longitudinal data set. We do so in the context of The Gambia, which has seen some of the highest migration rates in the world in recent years. We hypothesize that magical beliefs make individuals likely to underestimate the risk of the migratory journey, and make them more trusting of smugglers, who often betray this trust. In order to test these hypotheses, we ask 10,000 potential migrants who will be re-interviewed several times during a 6-months period. This  allows us to observe actual migration decisions, and to link these to beliefs in magic, risk attitudes and trust perceptions.   "
   
+  
+[item]]
+  organization = "Max Schaub, Johanna Gereke, and Delia Baldassarri"
+  organization_url = ""
+  title = "Does poverty reduce prosociality and political engagement?"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-07-23"
+  date_end = ""
+  description = "The following pre-analysis plan describes two projects that investigate for the effect of
+poverty on I) prosociality, and II) political engagement. With the projects, we continue our
+research agenda on poverty, diversity and cooperation (Schaub, Gereke, and Baldassarri
+2019). The two projects are closely linked as they draw on the same data collection effort and
+share the same treatment definition and some of the outcome measures. They are distinct,
+however, in terms of the concepts invoked. The pre-analysis plan therefore starts by
+introducing common design features. After that, the outcome measures and other specificities
+for each project are described separately."
+
 +++
