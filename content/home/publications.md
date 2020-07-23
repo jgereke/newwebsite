@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Cambridge University Press, Journal of Experimental Political Science, 1-14."
   organization_url = ""
-  title = "Schaub, M., Gereke, J., & Baldassarri, D. (n.d.). Does Poverty Undermine Cooperation in Multiethnic Settings? Evidence from a Cooperative Investment Experiment."
+  title = "Schaub, M., Gereke, J., & Baldassarri, D. (2020). Does Poverty Undermine Cooperation in Multiethnic Settings? Evidence from a Cooperative Investment Experiment."
   url = "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/does-poverty-undermine-cooperation-in-multiethnic-settings-evidence-from-a-cooperative-investment-experiment/F06AFA99B15771EF264F1E744ADB562F"
   certificate_url = ""
   date_start = "2019-07-04"
