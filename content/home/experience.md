@@ -25,6 +25,15 @@ date_format = "Jan 2006"
   date_start = "2019-02-01"
   date_end = ""
   description = """"""
+  
+  [[experience]]
+  title = "Workshop Instructor"
+  company = "German Institute for Global and Area Studies (GIGA)"
+  company_url = "https://www.giga-hamburg.de/en"
+  location = "Hamburg, Germany"
+  date_start = "2019-10-21"
+  date_end = "2019-10-22"
+  description = """"""
 
 #[[experience]]
 #  title = "Postdoctoral Fellow"
