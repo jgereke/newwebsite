@@ -38,7 +38,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Recent migration from Muslim-majority countries has sparked discussions across Europe about the supposed threat posed by new immigrants. Young men make up the largest share of newly arrived immigrants and this demographic is often perceived to be particularly threatening.  In this article, we  compare pro-sociality and trust towards immigrants from Muslim-majority countries, focusing on gender differences in treatment. We study these questions using behavioral games that measure strategic (trusting) and non-strategic (pro-social) behavior. Our data comes from measures embedded in a large survey of residents of Germany's eastern regions, where anti-immigrant sentiments are high.  We find that Germans are similarly pro-social toward immigrant men and women in non-strategic situations, but are significantly less likely to trust immigrant men (but not women) in strategic encounters.  These findings provide evidence that immigrants' gender can be an important factor conditioning the behavior of the majority population, but also caution that (gendered) ethnic discrimination may be situationally dependent. Future research should further examine the exact mechanisms underlying this variation in discriminatory behavior."
 
-
+[[item]]
+  organization = "Cambridge University Press, Journal of Experimental Political Science, 1-14."
+  organization_url = ""
+  title = "Schaub, M., Gereke, J., & Baldassarri, D. (2020). Does Poverty Undermine Cooperation in Multiethnic Settings? Evidence from a Cooperative Investment Experiment."
+  url = "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/does-poverty-undermine-cooperation-in-multiethnic-settings-evidence-from-a-cooperative-investment-experiment/F06AFA99B15771EF264F1E744ADB562F"
+  certificate_url = ""
+  date_start = "2019-07-04"
+  date_end = ""
+  description = "What undermines cooperation in ethnically diverse communities? Scholars have focused on factors that explain the lack of inter-ethnic cooperation, such as prejudice or the difficulty to communicate and sanction across group boundaries. We direct attention to the fact that diverse communities are also often poor and ask whether poverty, rather than diversity, reduces cooperation. We developed a strategic cooperation game where we vary the income and racial identity of the interaction partner. We find that beliefs about how poor people behave have clear detrimental effects on cooperation: cooperation is lower when people are paired with low-income partners, and the effect is particularly strong when low-income people interact among themselves. We observe additional discrimination along racial lines when the interaction partner is poor. These findings imply that poverty and rising inequality may be a serious threat to social cohesion, especially under conditions of high socioeconomic segregation."
+  
 [[item]]
   organization = "PLoS ONE 13(7): e0199834."
   organization_url = ""
