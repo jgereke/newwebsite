@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "M. Schaub, J. Gereke, D. Baldassarri"
+  organization = "forthcoming in Comparative Political Studies"
   organization_url = ""
-  title = "Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support (forthcoming in Comparative Political Studies)"
+  title = "M. Schaub, J. Gereke, D. Baldassarri (n.d.). Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support"
   url = ""
   certificate_url = ""
   date_start = "2020-07-23"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = "Does local exposure to refugees affect right-wing support and anti-immigrant sentiments? This paper studies the allocation of refugees to the rural hinterlands of Eastern Germany during the refugee crisis of 2015. Similar to non-urban regions elsewhere, the area has seen a major shift towards the political right, despite minimal previous exposure to foreigners. We draw on electoral records and original data collected among 1,320 German citizens from 236 municipalities, half of which received refugees. Two conditions allow for causal identification: a policy allocating refugees following strict administrative rules, and a matching procedure rendering treated and control municipalities statistically indistinguishable. Our survey and behavioral measures confirm the presence of widespread anti-immigrant sentiments, but these are entirely unaffected by the presence of refugees in respondents’ hometowns. If anything, local exposure to refugees served as a ‘reality check’, pulling both right- and left-leaning individuals more towards the center."
 
 [[item]]
-  organization = "J. Gereke, M. Schaub,  D. Baldassarri"
+  organization = "forthcoming in Frontiers of Sociology"
   organization_url = ""
-  title = "Gendered discrimination against immigrants: experimental evidence (forthcoming in Frontiers of Sociology)"
+  title = "J. Gereke, M. Schaub,  D. Baldassarri (n.d.). Gendered discrimination against immigrants: experimental evidence"
   url = ""
   certificate_url = ""
   date_start = "2020-07-23"
@@ -39,14 +39,12 @@ date_format = "Jan 2006"
 description = "Recent migration from Muslim-majority countries has sparked discussions across Europe about the supposed threat posed by new immigrants. 
 Young men make up the largest share of newly arrived immigrants and this demographic is often perceived to be particularly threatening.
 In this article, we  compare pro-sociality and trust towards immigrants from Muslim-majority countries, focusing on gender differences in treatment. 
-We study these questions using behavioral games that measure strategic (trusting) and non-strategic (pro-social) behavior. Our data comes from measures embedded in a large survey of residents of Germany's eastern regions, where anti-immigrant sentiments are high.
-We find that Germans are similarly pro-social toward immigrant men and women in non-strategic situations, but are significantly less likely to trust immigrant men (but not women) in strategic encounters.
-These findings provide evidence that immigrants' gender can be an important factor conditioning the behavior of the majority population, but also caution that (gendered) ethnic discrimination may be situationally dependent. Future research should further examine the exact mechanisms underlying this variation in discriminatory behavior."
+We study these questions using behavioral games that measure strategic (trusting) and non-strategic (pro-social) behavior. Our data comes from measures embedded in a large survey of residents of Germany's eastern regions, where anti-immigrant sentiments are high.  We find that Germans are similarly pro-social toward immigrant men and women in non-strategic situations, but are significantly less likely to trust immigrant men (but not women) in strategic encounters.  These findings provide evidence that immigrants' gender can be an important factor conditioning the behavior of the majority population, but also caution that (gendered) ethnic discrimination may be situationally dependent. Future research should further examine the exact mechanisms underlying this variation in discriminatory behavior."
 
 [[item]]
   organization = "Cambridge University Press, Journal of Experimental Political Science, 1-14."
   organization_url = ""
-  title = "Schaub, M., Gereke, J., & Baldassarri, D. (n.d.). Does Poverty Undermine Cooperation in Multiethnic Settings? Evidence from a Cooperative Investment Experiment."
+  title = "Schaub, M., Gereke, J., & Baldassarri, D. (2020). Does Poverty Undermine Cooperation in Multiethnic Settings? Evidence from a Cooperative Investment Experiment."
   url = "https://www.cambridge.org/core/journals/journal-of-experimental-political-science/article/does-poverty-undermine-cooperation-in-multiethnic-settings-evidence-from-a-cooperative-investment-experiment/F06AFA99B15771EF264F1E744ADB562F"
   certificate_url = ""
   date_start = "2019-07-04"
