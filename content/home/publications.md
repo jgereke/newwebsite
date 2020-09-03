@@ -21,10 +21,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Frontiers in Sociology, 5, 59."
   organization_url = ""
-  title = "J. Gereke, M. Schaub,  D. Baldassarri (n.d.). Gendered discrimination against immigrants: experimental evidence"
+  title = "J. Gereke, M. Schaub,  D. Baldassarri. Gendered discrimination against immigrants: experimental evidence"
   url = "https://www.frontiersin.org/articles/10.3389/fsoc.2020.00059/full"
   certificate_url = ""
-  date_start = "2020-09-3"
+  date_start = "2020-09-03"
   date_end = ""
   description = "Recent migration from Muslim-majority countries has sparked discussions across Europe about the supposed threat posed by new immigrants. Young men make up the largest share of newly arrived immigrants and this demographic is often perceived to be particularly threatening.  In this article, we  compare pro-sociality and trust towards immigrants from Muslim-majority countries, focusing on gender differences in treatment. We study these questions using behavioral games that measure strategic (trusting) and non-strategic (pro-social) behavior. Our data comes from measures embedded in a large survey of residents of Germany's eastern regions, where anti-immigrant sentiments are high.  We find that Germans are similarly pro-social toward immigrant men and women in non-strategic situations, but are significantly less likely to trust immigrant men (but not women) in strategic encounters.  These findings provide evidence that immigrants' gender can be an important factor conditioning the behavior of the majority population, but also caution that (gendered) ethnic discrimination may be situationally dependent. Future research should further examine the exact mechanisms underlying this variation in discriminatory behavior."
 
