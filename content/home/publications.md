@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "Comparative Political Studies"
+  organization_url = ""
+  title = "M. Schaub, J. Gereke, D. Baldassarri (n.d.). Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support"
+  url = "https://journals.sagepub.com/doi/10.1177/0010414020957675"
+  certificate_url = ""
+  date_start = "2020-09-13"
+  date_end = ""
+  description = "Does local exposure to refugees affect right-wing support and anti-immigrant sentiments? This paper studies the allocation of refugees to the rural   hinterlands of Eastern Germany during the refugee crisis of 2015. Similar to non-urban regions elsewhere, the area has seen a major shift towards the political     right, despite minimal previous exposure to foreigners. We draw on electoral records and original data collected among 1,320 German citizens from 236 municipalities, half of which received refugees. Two conditions allow for causal identification: a policy allocating refugees following strict administrative rules, and a matching procedure rendering treated and control municipalities statistically indistinguishable. Our survey and behavioral measures confirm the presence of widespread anti-immigrant sentiments, but these are entirely unaffected by the presence of refugees in respondents’ hometowns. If anything, local exposure to refugees served as a ‘reality check’, pulling both right- and left-leaning individuals more towards the center."
+
 [[item]]
   organization = "Frontiers in Sociology, 5, 59."
   organization_url = ""
