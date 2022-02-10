@@ -20,6 +20,28 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "European Sociological Review"
+  organization_url = ""
+  title = "N. Zhang, J. Gereke, D. Baldassarri (n.d.). Everyday Discrimination in Public Spaces: A Field Experiment in the Milan Metro"
+  url = "https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcac008/6524578"
+  certificate_url = ""
+  date_start = "2022-02-08"
+  date_end = ""
+  description = "A large scholarship documents discrimination against immigrants and ethnic minorities in institutional settings such as labour and housing markets in Europe. We know less, however, about discrimination in informal and unstructured everyday encounters. To address this gap, we report results from a large-scale field experiment examining the physical avoidance of immigrants as an unobtrusive yet important measure of everyday discrimination in a multiethnic European metropolis. In addition to varying confederates’ migration background and race, we also vary signals of status (business versus casual attire) in order to shed light on the mechanisms underlying discriminatory patterns. We find that natives are averse to contact with Nigerian confederates, but do not discriminate against Chinese confederates. Furthermore, manipulating confederates’ attire has little effect on natives’ behaviour. Overall, our results highlight the everyday burdens borne particularly by individuals of African descent in commonplace, ‘street-level’ encounters."
+
+[[item]]
+  organization = "Journal of Ethnic and Migration Studies"
+  organization_url = ""
+  title = " J. Gereke, M. Schaub, D. Baldassarri (n.d.). Immigration, integration and cooperation: experimental evidence from a public goods game in Italy"
+  url = "https://www.tandfonline.com/doi/full/10.1080/1369183X.2021.1949269"
+  certificate_url = ""
+  date_start = "2021-07-12"
+  date_end = ""
+  description = "Immigration has rapidly changed the demographic profile of most Western European societies, increasing their ethnic diversity. Some cross-disciplinary literature comparing homogeneous and diverse communities provides observational evidence of a link between high levels of ethnoracial diversity and lower levels of public goods provision. While these results are often interpreted as driven by context/interaction effects, whereby individuals lower their cooperativeness in response to the presence of non-coethnics, they could also be explained by composition effects – immigrants having different baseline levels of cooperativeness, and thereby lowering average cooperation rates. To disentangle these effects, we conducted a lab-in-the-field experiment with a sample of Italians and immigrants from Morocco and the Philippines residing in Milan. In our public goods experiment, participants were randomly assigned to either homogeneous or ethnically mixed groups. We find that Italians behave similarly in both homogeneous and heterogeneous groups, thus contradicting arguments about the negative effects of diversity on the native population, while there are both compositional and interactional effects when considering the behaviour of Moroccan and Filipino immigrants, respectively. Moreover, differences largely disappear when we consider only the behaviour of more socio-economically integrated immigrants, highlighting the need for a more processual understanding of cooperation in multiethnic communities."
+
+
+
+[[item]]
   organization = "Comparative Political Studies"
   organization_url = ""
   title = "M. Schaub, J. Gereke, D. Baldassarri (n.d.). Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support"
