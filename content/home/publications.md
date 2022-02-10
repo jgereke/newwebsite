@@ -42,9 +42,9 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "Comparative Political Studies"
+  organization = "Comparative Political Studies, 54(3-4), 686-717"
   organization_url = ""
-  title = "M. Schaub, J. Gereke, D. Baldassarri (n.d.). Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support"
+  title = "M. Schaub, J. Gereke, D. Baldassarri (2021). Strangers in Hostile Lands: Exposure to Refugees and Right-wing Support"
   url = "https://journals.sagepub.com/doi/10.1177/0010414020957675"
   certificate_url = ""
   date_start = "2020-09-13"
