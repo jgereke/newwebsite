@@ -82,7 +82,7 @@ Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Donden
 
 I have recently been awarded a Junior Fellowship for Innovation in Teaching from the Baden-Würrtemberg Foundation for my course project "Replication & Reproduction in the Social Sciences" (2020-2022).
 
-Together with Prof. Reinhard Schunck (University of Wuppertal), I am the PI of the newly-funded research project "Pretty Integrated? Perceptions of immigrants’ physical attractiveness and consequences for integration outcomes" financed by the German Research Foundation (DFG) (2020-2023). 
+Together with Prof. Reinhard Schunck (University of Wuppertal), I am the PI of the newly-funded research project "Pretty Integrated? Perceptions of immigrants’ physical attractiveness and consequences for integration outcomes" financed by the German Research Foundation (DFG) (2021-2024). 
 
 
 
