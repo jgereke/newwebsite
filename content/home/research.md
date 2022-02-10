@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "N. Zhang, J. Gereke, D. Baldassarri"
+  organization = "J. Gereke, D. Ruedin"
   organization_url = ""
-  title = "Everyday Discrimination in Public Spaces:A Field Experiment in the Milan Metro"
+  title = "Trusting and Reciprocating Trust of Citizens versus Non-Citizens: Experimental Evidence from the U.S., South Africa and Switzerland"
   url = ""
   certificate_url = ""
-  date_start = "2020-07-23"
+  date_start = "2022-02-10"
   date_end = ""
-  description = "Discrimination  against  immigrants  and  ethnic  minorities  remains  widespread  acrossEuropean countries.  While a large scholarship has documented ethno-racial discrimi-nation in institutional settings such housing and labor markets, we know little aboutwhat drives discrimination across a broader range of day-to-day encounters.  This studyreports results from a large-scale field experiment examining the physical avoidance ofimmigrants  as  an  unobtrusive  yet  important  measure  of  everyday  discrimination  inItaly.  By varying confederates’ race as well as signals of socioeconomic status (busi-ness vs. casual attire), we can additionally shed light on the mechanisms underlyingdiscriminatory patterns.  We find that natives are averse to contact with Nigerian con-federates, but do not discriminate against Chinese confederates.  Further, manipulatingconfederates’ dress to signal high socioeconomic status has little effect on natives’ be-havior.  We discuss the implications of these findings for improving interracial contactin diverse societies."
+  description = "We examine how trust and trustworthiness varies with the citizenship status of the alter in three democratic countries with varying sharres of immigrants and levels of economic development: the United States, South Africa, and Switzerland. Trust games were implemented in representative surveys. While we find significant differences in overall levels of trust and trustworthiness across countries, we do not find any significant differences in the degree to which participants trusted or reciprocated trust of interaction partners with the same vs. foreign citizenship status in any of the three countries. Our results suggest that citizenship status is not a salient identity marker to shape trust or trustworthiness in these types of interpersonal interactions. "
  
  [[item]]
   organization = "Johanna Gereke, Daniel Auer (WZB) and Max Schaub (WZB)"
   organization_url = ""
-  title = "Migration, Magic, and the Risk of Dying: Evidence from real-time migration decisions in The Gambia"
+  title = "Supernatural beliefs predict high-risk migration behavior"
   url = ""
   certificate_url = ""
   date_start = "2020-07-23"
   date_end = ""
-  description = "Beliefs in magic and superstitions have been observed to influence a range of outcomes, including warfare, business and electoral choice. In the context of migration, previous studies have documented the ubiquity of superstitious beliefs in influencing when, where and how aspiring migrants decide to undertake their journeys abroad.  Building on these findings, this study empirically investigates whether magical and superstitious beliefs influence the decision to migrate using an original longitudinal data set. We do so in the context of The Gambia, which has seen some of the highest migration rates in the world in recent years. We hypothesize that magical beliefs make individuals likely to underestimate the risk of the migratory journey, and make them more trusting of smugglers, who often betray this trust. In order to test these hypotheses, we ask 10,000 potential migrants who will be re-interviewed several times during a 6-months period. This  allows us to observe actual migration decisions, and to link these to beliefs in magic, risk attitudes and trust perceptions."
+  description = "Each year, several thousand migrants from Sub-Saharan Africa die attempting to reach Europe’s southern shores. Social scientists and policymakers have been puzzling over the question why so many people are prepared to take this extremely high risk of dying. Drawing on  panel data from over 10,000 individuals in The Gambia -- one of the countries with the highest emigration rates in the world -- we show that cultural beliefs in terms of spiritual practices are strongly associated with a decreased perception of one's own risk of dying on the migration journey. We find that consulting a "healer" for spiritual protection predicts migration plans and actual migration behavior."
 
 [[item]]
   organization = "Max Schaub, Johanna Gereke, and Delia Baldassarri"
