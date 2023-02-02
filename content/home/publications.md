@@ -20,19 +20,30 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "European Sociological Review"
+  organization = "European Sociological Review, 38.5: 679-693"
   organization_url = ""
-  title = "N. Zhang, J. Gereke, D. Baldassarri (n.d.). Everyday Discrimination in Public Spaces: A Field Experiment in the Milan Metro"
+  title = "N. Zhang, J. Gereke, D. Baldassarri (2022) Everyday Discrimination in Public Spaces: A Field Experiment in the Milan Metro"
   url = "https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcac008/6524578"
   certificate_url = ""
   date_start = "2022-02-08"
   date_end = ""
   description = "A large scholarship documents discrimination against immigrants and ethnic minorities in institutional settings such as labour and housing markets in Europe. We know less, however, about discrimination in informal and unstructured everyday encounters. To address this gap, we report results from a large-scale field experiment examining the physical avoidance of immigrants as an unobtrusive yet important measure of everyday discrimination in a multiethnic European metropolis. In addition to varying confederates’ migration background and race, we also vary signals of status (business versus casual attire) in order to shed light on the mechanisms underlying discriminatory patterns. We find that natives are averse to contact with Nigerian confederates, but do not discriminate against Chinese confederates. Furthermore, manipulating confederates’ attire has little effect on natives’ behaviour. Overall, our results highlight the everyday burdens borne particularly by individuals of African descent in commonplace, ‘street-level’ encounters."
+  
+  
+ [[item]]
+  organization = "Sociological Science 9, 206-220"
+  organization_url = ""
+  title = " Gereke, Johanna, et al.Demographic Change and Group Boundaries in Germany: The Effect of Projected Demographic Decline on Perceptions of Who Has a Migration Background"
+  url = "https://sociologicalscience.com/articles-v9-9-206/"
+  certificate_url = ""
+  date_start = "2022-05-08"
+  date_end = ""
+  description = "In many Western societies, the current “native” majority will become a numerical minority sometime within the next century. How does prospective demographic change affect existing group boundaries? An influential recent article by Abascal (2020) showed that white Americans under demographic threat reacted with boundary contraction—that is, they were less likely to classify ambiguously white people as “white.” The present study examines the generalizability of these findings beyond the American context. Specifically, we test whether informing Germans about the projected decline of the “native” population without migration background affects the classification of phenotypically ambiguous individuals. Our results show that information about demographic change neither affects the definition of group boundaries nor generates negative feelings toward minority outgroups. These findings point to the relevance of contextual differences in shaping the conditions under which demographic change triggers group threat and boundary shifts.." 
 
 [[item]]
-  organization = "Journal of Ethnic and Migration Studies"
+  organization = "Journal of Ethnic and Migration Studies, 48(15), 3761-3788"
   organization_url = ""
-  title = " J. Gereke, M. Schaub, D. Baldassarri (n.d.). Immigration, integration and cooperation: experimental evidence from a public goods game in Italy"
+  title = " J. Gereke, M. Schaub, D. Baldassarri (2022). Immigration, integration and cooperation: experimental evidence from a public goods game in Italy"
   url = "https://www.tandfonline.com/doi/full/10.1080/1369183X.2021.1949269"
   certificate_url = ""
   date_start = "2021-07-12"
