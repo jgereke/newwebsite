@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:johanna.gereke@mzes.uni-mannheim.de'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:johanna.gereke@uni-mannheim.de'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -60,7 +60,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "johanna.gereke@mzes.uni-mannheim.de"
+email: "johanna.gereke@uni-mannheim.de"
 #"johanna.gereke@mzes.uni-mannheim.de"
 #Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy #at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, #Italy.
 #Please see my full CV <a #href="https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf"/> 
@@ -80,9 +80,6 @@ Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Donden
 Since 2021 I am a member of "Die Junge Akademie" a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina. 
 
 Together with Prof. Reinhard Schunck (University of Wuppertal), I am the PI of the research project "Pretty Integrated? Perceptions of immigrants’ physical attractiveness and consequences for integration outcomes" financed by the German Research Foundation (DFG) (2021-2024). 
-
-
-
 
 
 
