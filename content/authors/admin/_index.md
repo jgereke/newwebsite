@@ -73,14 +73,13 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral research fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies.
-Other research projects examine biased beliefs and superstitions in migration decision-making, the link between physical attractiveness and immigrants’ integration outcomes and the relationship between unemployment, poverty and prosociality, political engagement and trust. My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
+I am a postdoctoral research fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies. Other research projects examine the preceptions and consequencs of physical attractiveness. My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
 
 Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
 
-I have recently been awarded a Junior Fellowship for Innovation in Teaching from the Baden-Würrtemberg Foundation for my course project "Replication & Reproduction in the Social Sciences" (2020-2022). Since 2021 I am a member of "Die Junge Akademie" a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina. 
+Since 2021 I am a member of "Die Junge Akademie" a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina. 
 
-Together with Prof. Reinhard Schunck (University of Wuppertal), I am the PI of the newly-funded research project "Pretty Integrated? Perceptions of immigrants’ physical attractiveness and consequences for integration outcomes" financed by the German Research Foundation (DFG) (2021-2024). 
+Together with Prof. Reinhard Schunck (University of Wuppertal), I am the PI of the research project "Pretty Integrated? Perceptions of immigrants’ physical attractiveness and consequences for integration outcomes" financed by the German Research Foundation (DFG) (2021-2024). 
 
 
 
