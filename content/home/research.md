@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-07-23"
   date_end = ""
-  description = "Each year, several thousand migrants from Sub-Saharan Africa die attempting to reach Europe’s southern shores. Social scientists and policymakers have been puzzling over the question why so many people are prepared to take this extremely high risk of dying. Drawing on  panel data from over 10,000 individuals in The Gambia, one of the countries with the highest emigration rates in the world, we show that cultural beliefs in terms of spiritual practices are strongly associated with a decreased perception of one's own risk of dying on the migration journey. We find that consulting a "healer" for spiritual protection predicts migration plans and actual migration behavior."
+  description = "Each."
 
 [[item]]
   organization = "Max Schaub, Johanna Gereke, and Delia Baldassarri"
