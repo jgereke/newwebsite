@@ -17,6 +17,25 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organizatio = "Socius: sociological Research for a Dynamic World"
+    organization_url = ""
+  title = "Gereke, Johanna and Ruedin, Didier (2023) Trusting and Reciprocating Trust of Citizens versus Non-Citizens: Experimental Evidence from the U.S., South Africa and Switzerland"
+  url = "https://journals.sagepub.com/doi/full/10.1177/23780231231189945"
+  certificate_url = ""
+  date_start = "2022-08-18"
+  date_end = ""
+  description = "We examine how trust and trustworthiness varies with the citizenship status of the alter in three democratic countries with varying sharres of immigrants and levels of economic development: the United States, South Africa, and Switzerland. Trust games were implemented in representative surveys. While we find significant differences in overall levels of trust and trustworthiness across countries, we do not find any significant differences in the degree to which participants trusted or reciprocated trust of interaction partners with the same vs. foreign citizenship status in any of the three countries. Our results suggest that citizenship status is not a salient identity marker to shape trust or trustworthiness in these types of interpersonal interactions. "
+ 
+ [[item]]
+  organization = "Scientific reports"
+  organization_url = ""
+  title = "Auer, D., Gereke,J and Schaub M (2023) Supernatural practicew predict migration behavior"
+  url = "https://www.nature.com/articles/s41598-023-39587-4"
+  certificate_url = ""
+  date_start = "2023-08-02"
+  date_end = ""
+  description = "Each year, several thousand migrants from Sub-Saharan Africa die attempting to reach Europe’s southern shores. Social scientists and policymakers have been puzzling over the question why so many people are prepared to take this extremely high risk of dying. Drawing on  panel data from over 10,000 individuals in The Gambia, one of the countries with the highest emigration rates in the world, we show that cultural beliefs in terms of spiritual practices are strongly associated with a decreased perception of one's own risk of dying on the migration journey. We find that consulting a healer for spiritual protection predicts migration plans and actual migration behavior."
 
 
 [[item]]
