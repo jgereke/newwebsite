@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Interim Professur"
+  title = "Interim Professor"
   company = "Johannes Gutenberg University Mianz"
   company_url = "https://www.mzes.uni-mannheim.de/d7/en](https://quantitative-methoden.soziologie.uni-mainz.de/dr-johanna-gereke/)"
   location = "Mainz, Germany"
