@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
-  organizatio = "Socius: sociological Research for a Dynamic World"
+  organization = "Socius: sociological Research for a Dynamic World"
     organization_url = ""
   title = "Gereke, Johanna and Ruedin, Didier (2023) Trusting and Reciprocating Trust of Citizens versus Non-Citizens: Experimental Evidence from the U.S., South Africa and Switzerland"
   url = "https://journals.sagepub.com/doi/full/10.1177/23780231231189945"
