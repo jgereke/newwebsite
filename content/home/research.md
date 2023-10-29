@@ -19,14 +19,4 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[[item]]
-  organization = "Max Schaub, Johanna Gereke, and Delia Baldassarri"
-  organization_url = ""
-  title = "Does poverty reduce prosociality and political engagement?"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-07-23"
-  date_end = ""
-  description = "The following pre-analysis plan describes two projects that investigate for the effect of poverty on I) prosociality, and II) political engagement. With the projects, we continue our research agenda on poverty, diversity and cooperation (Schaub, Gereke, and Baldassarri 2019). The two projects are closely linked as they draw on the same data collection effort and share the same treatment definition and some of the outcome measures. They are distinct, however, in terms of the concepts invoked. The pre-analysis plan therefore starts by. introducing common design features. After that, the outcome measures and other specificities for each project are described separately."
-
 +++
