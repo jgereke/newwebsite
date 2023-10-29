@@ -30,7 +30,7 @@ date_format = "Jan 2006"
  [[item]]
   organization = "Scientific reports"
   organization_url = ""
-  title = "Auer, D., Gereke,J and Schaub M (2023) Supernatural practicew predict migration behavior"
+  title = "Auer, D., Gereke,J and Schaub M (2023) Sspiritual practices predict migration behavior"
   url = "https://www.nature.com/articles/s41598-023-39587-4"
   certificate_url = ""
   date_start = "2023-08-02"
