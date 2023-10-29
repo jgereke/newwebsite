@@ -73,11 +73,11 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral research fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies. Other research projects examine the preceptions and consequencs of physical attractiveness. My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
+I am currently Interim Professor of Quantitative Methods and Economic Sociology at the Johannes Gutenberg University, Mainz and a postdoctoral fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies. Other research projects examine the preceptions and consequencs of physical attractiveness. My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
 
 Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
 
-Since 2021 I am a member of "Die Junge Akademie" a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina. 
+I am an elected member of "Die Junge Akademie",  a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina from 2021-2026. 
 
 Together with Prof. Reinhard Schunck (University of Wuppertal), I am the PI of the research project "Pretty Integrated? Perceptions of immigrants’ physical attractiveness and consequences for integration outcomes" financed by the German Research Foundation (DFG) (2021-2024). 
 
