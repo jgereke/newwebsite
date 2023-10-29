@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = ""
+  organization = "Gereke, Helbling, Kommol, Ünal, Szafran, Visser-Koomson"
   organization_url = ""
   title = "The effects of Muslim immigration and demographic change on group boundaries in Germany"
   url = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "Increasing ethnic and religious diversity in many Western societies has sparked research on the consequences of this demographic change on intergroup relations. The impact of Muslim immigration in Europe has become a particularly salient topic in the political debate. Yet, it is unclear how prospective immigrant population growth and the numeric increase of Muslims impact group boundaries. We use a survey experiment to examine the effects of demographic shifts on how the majority draws group boundaries in Germany. The results show that information about a growing share of immigrants or Muslims increases perceptions of threat, leading Germans to classify ambiguous German / Middle Eastern and North African (MENA) as more likely to have a migration background. Further, such information increases negative feelings towards individuals with unambiguous MENA physical appearance. These findings contribute to a growing literature on demographic change and how group boundaries are drawn in diverse European societies."
 
   [[item]]
-  organization = ""
+  organization = "Gereke, Hellyer, Fadavi, Zhang"
   organization_url = ""
   title = "Religion, Religiosity and Perceived Trustworthiness: Experimental Evidence from a Vignette Study in Germany"
   url = ""
