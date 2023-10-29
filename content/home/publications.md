@@ -52,7 +52,7 @@ date_format = "Jan 2006"
  [[item]]
   organization = "Sociological Science 9, 206-220"
   organization_url = ""
-  title = " Gereke, Johanna, et al.Demographic Change and Group Boundaries in Germany: The Effect of Projected Demographic Decline on Perceptions of Who Has a Migration Background"
+  title = " Gereke, Johanna, et al.(2022) Demographic Change and Group Boundaries in Germany: The Effect of Projected Demographic Decline on Perceptions of Who Has a Migration Background"
   url = "https://sociologicalscience.com/articles-v9-9-206/"
   certificate_url = ""
   date_start = "2022-05-08"
