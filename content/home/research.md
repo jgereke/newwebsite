@@ -20,14 +20,4 @@ date_format = "Jan 2006"
 
 
 
-  [[item]]
-  organization = "Gereke, Hellyer, Fadavi, Zhang"
-  organization_url = ""
-  title = "Religion, Religiosity and Perceived Trustworthiness: Experimental Evidence from a Vignette Study in Germany"
-  url = ""
-  certificate_url = ""
-  date_start = "2023-10-28"
-  date_end = ""
-  description = "Muslim immigrants in European societies are commonly perceived to be more religious than their Christian counterparts.  Moreover, since traditional religious beliefs and practices often run counter to modern, liberal values, Muslims' religiosity is argued to contribute to an additional ``burden" of prejudice directed at religious (but not secular) Muslims.  At the same time, could Muslims' religiosity paradoxically increase their perceived trustworthiness?  Building on evidence from recent research suggesting that religiosity functions as a costly signal of benevolent intentions, we test the hypothesis that religious Muslims are more trusted than their secular counterparts. We present evidence from a survey experiment embedded within the German Internet Panel, a random offline recruited probability sample of the general population in Germany aged 16-75, in which respondents are presented with a hypothetical ``lost wallet" scenario. Our design varies both the religious heritage (Muslim vs. Christian) and religiosity (highly religious vs. secular vs. atheist) of the wallet's finder and measure beliefs about the likelihood that the wallet will be returned."
-
 +++
