@@ -17,6 +17,18 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Journal of Economic Behavior & Organization, 2023:2015, pp.107-119"
+  organization_url = ""
+  title = "Hellyer, Joshua, Hellriegel, Emily, Gereke, Johanna and Schunck, Reinhard (2023) Pretty unequal? Immigrant-native differences in returns to physical attractiveness in Germany"
+  url = "https://www.sciencedirect.com/science/article/abs/pii/S016726812300327X?via%3Dihub"
+  certificate_url = ""
+  date_start = "2022-09-18"
+  date_end = ""
+  description = "How do the economic returns to physical attractiveness vary between immigrants and natives? Despite a growing literature on the beauty premium, previous scholarship has not examined whether the size of this premium might vary according to immigrant status, an important axis of social stratification in European societies. We study this question in the German labor market using longitudinal data from a large, randomly drawn nationwide sample that includes interviewer ratings of respondents’ physical attractiveness. Results from a multiverse analysis provide strong evidence of a beauty premium for native German men and women. However, we find mixed results for ethnic minority groups. These results highlight how perceived physical attractiveness is linked to labor market stratification."
+
+ 
 [[item]]
   organization = "Socius: sociological Research for a Dynamic World"
   organization_url = ""
