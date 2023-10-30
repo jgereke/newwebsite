@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Journal of Economic Behavior & Organization, 2023:2015, pp.107-119"
+  organization = "Journal of Economic Behavior & Organization, 2023:215, pp.107-119"
   organization_url = ""
   title = "Hellyer, Joshua, Hellriegel, Emily, Gereke, Johanna and Schunck, Reinhard (2023) Pretty unequal? Immigrant-native differences in returns to physical attractiveness in Germany"
   url = "https://www.sciencedirect.com/science/article/abs/pii/S016726812300327X?via%3Dihub"
