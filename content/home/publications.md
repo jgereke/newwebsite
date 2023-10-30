@@ -69,8 +69,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Immigration has rapidly changed the demographic profile of most Western European societies, increasing their ethnic diversity. Some cross-disciplinary literature comparing homogeneous and diverse communities provides observational evidence of a link between high levels of ethnoracial diversity and lower levels of public goods provision. While these results are often interpreted as driven by context/interaction effects, whereby individuals lower their cooperativeness in response to the presence of non-coethnics, they could also be explained by composition effects – immigrants having different baseline levels of cooperativeness, and thereby lowering average cooperation rates. To disentangle these effects, we conducted a lab-in-the-field experiment with a sample of Italians and immigrants from Morocco and the Philippines residing in Milan. In our public goods experiment, participants were randomly assigned to either homogeneous or ethnically mixed groups. We find that Italians behave similarly in both homogeneous and heterogeneous groups, thus contradicting arguments about the negative effects of diversity on the native population, while there are both compositional and interactional effects when considering the behaviour of Moroccan and Filipino immigrants, respectively. Moreover, differences largely disappear when we consider only the behaviour of more socio-economically integrated immigrants, highlighting the need for a more processual understanding of cooperation in multiethnic communities."
 
-
-
 [[item]]
   organization = "Comparative Political Studies, 54(3-4), 686-717"
   organization_url = ""
