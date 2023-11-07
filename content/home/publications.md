@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "American Journal of Sociology, Volume 129 Number 2 (September 2023):570-585"
+  organization_url = ""
+  title = "Kretschmer, David, Gereke, Johanna, Winter, Fabian and Zhang, Nan (2023) No differential effects of classroom ethnic composition on native and immigrant friendship segregation: Comment on Smith et al., 2016"
+  url = "https://doi.org/10.1086/727823"
+  certificate_url = ""
+  date_start = "2023-11-6"
+  date_end = ""
+  description = "What is the relationship between classroom ethnic composition and patterns of ethnic friendship segregation amongst native and immigrant adolescents?  In a 2016 AJS article, Smith et al. analyzed data on adolescents' friendship networks from four European countries and found differential effects of classroom composition on natives' and immigrants' friendship choices. In this comment, we identify estimation problems in a large number of classroom networks included in Smith et al.'s original study. We demonstrate that immigrant homophily cannot be meaningfully estimated in many networks containing insufficient numbers of immigrant students from the same ethnic group. After accounting for these estimation problems at the network level, our re-analyis provides little evidence that classroom composition has differential effects for native and immigrant homophily."
 
 [[item]]
   organization = "Journal of Economic Behavior & Organization, 2023:215, pp.107-119"
