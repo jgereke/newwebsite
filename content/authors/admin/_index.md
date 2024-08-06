@@ -73,9 +73,9 @@ user_groups:
 - Visitors
 ---
 
-I am currently Interim Professor of Quantitative Methods and Economic Sociology at the Johannes Gutenberg University, Mainz and a postdoctoral fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies. Other research projects examine the preceptions and consequencs of physical attractiveness. My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
+I am currently a postdoctoral fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies. Other research projects examine the preceptions and consequencs of physical attractiveness. My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
 
-Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
+Recently, I have also been an Interim Professor ("Vertretungsprofessur") of Quantitative Methods and Economic Sociology at the Johannes Gutenberg University, Mainz (4/2023-2/2024). Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
 
 I am an elected member of "Die Junge Akademie",  a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina from 2021-2026. 
 
