@@ -41,7 +41,7 @@ date_format = "Jan 2006"
  [[item]]
   organization = "Teaching of psychology, 15: 1384470"
   organization_url = ""
-  title = "Bauer, Gerrit, Breznau, Nate, Gereke, Johanna,  Höffler, Jan H., Janz, Nicole  Rahal, Rima-Maria  Rennstich, Joachim K. and Soiné, Hannah (2023)  Teaching Constructive Replications in the Behavioral and Social Sciences Using Quantitative Data
+  title = "Bauer, Gerrit, Breznau, Nate, Gereke, Johanna,  Höffler, Jan H., Janz, Nicole  Rahal, Rima-Maria  Rennstich, Joachim K. and Soine, Hannah (2023)  Teaching Constructive Replications in the Behavioral and Social Sciences Using Quantitative Data
 "
   url = "https://doi.org/10.1177/0098628323121"
   certificate_url = ""
@@ -51,7 +51,7 @@ date_format = "Jan 2006"
 Statement of the Problem: Replications of published research are an important element in this revolution as part of the self-correcting process of scientific knowledge production; however, the teaching value of replications is still underutilized thus far.
 Literature Review: Pedagogical knowledge points to the value of replication as critical to the scientific method of test and retest. Psychology has already begun mass efforts to reproduce previous experiments. Yet, we have very few examples of how analytical and reanalysis replications, after the data come in, contribute to the reproducibility crisis and can be integrated into undergraduate and graduate courses.
 Teaching Implications: Replications with quantitative data can be a pedagogical tool for improving student research method skills and introducing them to best research practices via learning-by-doing.
-Conclusion:This article aims to start filling this gap by offering guidance to instructors in designing and teaching replications for students at various levels and disciplines in the social and behavioral sciences, including a supplementary teaching companion."
+Conclusion: This article aims to start filling this gap by offering guidance to instructors in designing and teaching replications for students at various levels and disciplines in the social and behavioral sciences, including a supplementary teaching companion."
  
 [[item]]
   organization = "American Journal of Sociology, Volume 129 Number 2 (September 2023): 570-585"
