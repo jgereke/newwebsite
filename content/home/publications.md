@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Sociological Science 11: 815-853."
+  organization_url = ""
+  title = "Baldassarri, Delia, Gereke, Johanna, and Schaub, Max (2024) Prosociality Beyond In-Group Boundaries: A Lab-in-the-Field Experiment on Selection and Intergroup Interactions in a Multiethnic European Metropolis"
+  url = "https://doi.org/10.15195/v11.a30"
+  certificate_url = ""
+  date_start = "2024-06-09"
+  date_end = ""
+  description = "How does prosocial behavior extend beyond in-group boundaries in multiethnic societies? The differentiation of Western societies presents an opportunity to understand the tension between societal pressures that push people outside the comfort zones of their familiar networks to constructively interact with unknown diverse others and the tendency toward homophily and in-group favoritism. We introduce a three-step model of out-group exposure that includes macrostructural conditions for intergroup encounters and microlevel dynamics of intergroup selection and interaction. Using lab-in-the-field experiments with a large representative sample of Italian natives and immigrants from the multiethnic city of Milan, we find that, when pushed to interact with non-coethnics, Italians generally treat them similarly to how they treat coethnics and value signs of social and market integration. However, when given the opportunity to select their interaction partners, Italians favor coethnics over immigrants. Taken together, these results help reconcile classical findings concerning the positive effects of intergroup contact with evidence documenting the persistence of out-group discrimination in selection processes."
+
+[[item]]
   organization = "American Journal of Sociology, Volume 129 Number 2 (September 2023): 570-585"
   organization_url = ""
   title = "Kretschmer, David, Gereke, Johanna, Winter, Fabian and Zhang, Nan (2023) No differential effects of classroom ethnic composition on native and immigrant friendship segregation: Comment on Smith et al., 2016"
