@@ -17,6 +17,66 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+  organization = "Sociological Science 11: 815-853."
+  organization_url = ""
+  title = "Baldassarri, Delia, Gereke, Johanna, and Schaub, Max (2024) Prosociality Beyond In-Group Boundaries: A Lab-in-the-Field Experiment on Selection and Intergroup Interactions in a Multiethnic European Metropolis"
+  url = "https://doi.org/10.15195/v11.a30"
+  certificate_url = ""
+  date_start = "2024-09-06"
+  date_end = ""
+  description = "How does prosocial behavior extend beyond in-group boundaries in multiethnic societies? The differentiation of Western societies presents an opportunity to understand the tension between societal pressures that push people outside the comfort zones of their familiar networks to constructively interact with unknown diverse others and the tendency toward homophily and in-group favoritism. We introduce a three-step model of out-group exposure that includes macrostructural conditions for intergroup encounters and microlevel dynamics of intergroup selection and interaction. Using lab-in-the-field experiments with a large representative sample of Italian natives and immigrants from the multiethnic city of Milan, we find that, when pushed to interact with non-coethnics, Italians generally treat them similarly to how they treat coethnics and value signs of social and market integration. However, when given the opportunity to select their interaction partners, Italians favor coethnics over immigrants. Taken together, these results help reconcile classical findings concerning the positive effects of intergroup contact with evidence documenting the persistence of out-group discrimination in selection processes."
+
+[[item]]
+  organization = "Frontiers in psychology, 15: 1384470"
+  organization_url = ""
+  title = "Hellyer, Joshua, and Gereke, Johanna (2024) The shadow of fear: hate crime victimization and stress after Charlottesville"
+  url = "https://doi.org/10.3389/fpsyg.2024.1384470"
+  certificate_url = ""
+  date_start = "2024-06-27"
+  date_end = ""
+  description = "Recent years have witnessed an increase in highly publicized attacks against members of minority groups. To date, scholarship has primarily focused on the tendency for such trigger events to generate violent aftershocks. However, we hypothesize that trigger events create a climate of fear that may also significantly impact minorities’ mental health and well-being. To test our conjuncture, we draw upon both national survey data as well as federal hate crime data in combination with a natural experiment involving the Unite the Right rally and vehicle attack in Charlottesville, Virginia. We first show that there was an increase in anti-Black hate crimes in the two weeks following Charlottesville. We also link the Charlottesville attack to an increase in stress about personal hate crime victimization among African-Americans. Interestingly, these results are confined to African-Americans, suggesting that both violent aftershocks and the general climate of fear may be racially bounded."
+
+[[item]]
+  organization = "American Journal of Sociology, Volume 129 Number 2 (September 2023): 570-585"
+  organization_url = ""
+  title = "Kretschmer, David, Gereke, Johanna, Winter, Fabian and Zhang, Nan (2023) No differential effects of classroom ethnic composition on native and immigrant friendship segregation: Comment on Smith et al., 2016"
+  url = "https://doi.org/10.1086/727823"
+  certificate_url = ""
+  date_start = "2023-11-06"
+  date_end = ""
+  description = "What is the relationship between classroom ethnic composition and patterns of ethnic friendship segregation amongst native and immigrant adolescents?  In a 2016 AJS article, Smith et al. analyzed data on adolescents' friendship networks from four European countries and found differential effects of classroom composition on natives' and immigrants' friendship choices. In this comment, we identify estimation problems in a large number of classroom networks included in Smith et al.'s original study. We demonstrate that immigrant homophily cannot be meaningfully estimated in many networks containing insufficient numbers of immigrant students from the same ethnic group. After accounting for these estimation problems at the network level, our re-analyis provides little evidence that classroom composition has differential effects for native and immigrant homophily."
+
+[[item]]
+  organization = "Journal of Economic Behavior & Organization, 2023:215, pp.107-119"
+  organization_url = ""
+  title = "Hellyer, Joshua, Hellriegel, Emily, Gereke, Johanna and Schunck, Reinhard (2023) Pretty unequal? Immigrant-native differences in returns to physical attractiveness in Germany"
+  url = "https://www.sciencedirect.com/science/article/abs/pii/S016726812300327X?via%3Dihub"
+  certificate_url = ""
+  date_start = "2023-09-18"
+  date_end = ""
+  description = "How do the economic returns to physical attractiveness vary between immigrants and natives? Despite a growing literature on the beauty premium, previous scholarship has not examined whether the size of this premium might vary according to immigrant status, an important axis of social stratification in European societies. We study this question in the German labor market using longitudinal data from a large, randomly drawn nationwide sample that includes interviewer ratings of respondents’ physical attractiveness. Results from a multiverse analysis provide strong evidence of a beauty premium for native German men and women. However, we find mixed results for ethnic minority groups. These results highlight how perceived physical attractiveness is linked to labor market stratification."
+
+ 
+[[item]]
+  organization = "Socius: sociological Research for a Dynamic World"
+  organization_url = ""
+  title = "Gereke, Johanna and Ruedin, Didier (2023) Trusting and Reciprocating Trust of Citizens versus Non-Citizens: Experimental Evidence from the U.S., South Africa and Switzerland"
+  url = "https://journals.sagepub.com/doi/full/10.1177/23780231231189945"
+  certificate_url = ""
+  date_start = "2023-08-18"
+  date_end = ""
+  description = "We examine how trust and trustworthiness varies with the citizenship status of the alter in three democratic countries with varying sharres of immigrants and levels of economic development: the United States, South Africa, and Switzerland. Trust games were implemented in representative surveys. While we find significant differences in overall levels of trust and trustworthiness across countries, we do not find any significant differences in the degree to which participants trusted or reciprocated trust of interaction partners with the same vs. foreign citizenship status in any of the three countries. Our results suggest that citizenship status is not a salient identity marker to shape trust or trustworthiness in these types of interpersonal interactions."
+ 
+ [[item]]
+  organization = "Scientific reports"
+  organization_url = ""
+  title = "Auer, D., Gereke,J and Schaub M (2023) Spiritual practices predict migration behavior"
+  url = "https://www.nature.com/articles/s41598-023-39587-4"
+  certificate_url = ""
+  date_start = "2023-08-02"
+  date_end = ""
+  description = "Each year, several thousand migrants from Sub-Saharan Africa die attempting to reach Europe’s southern shores. Social scientists and policymakers have been puzzling over the question why so many people are prepared to take this extremely high risk of dying. Drawing on  panel data from over 10,000 individuals in The Gambia, one of the countries with the highest emigration rates in the world, we show that cultural beliefs in terms of spiritual practices are strongly associated with a decreased perception of one's own risk of dying on the migration journey. We find that consulting a healer for spiritual protection predicts migration plans and actual migration behavior."
 
 
 [[item]]
