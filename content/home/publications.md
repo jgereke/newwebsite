@@ -41,7 +41,7 @@ date_format = "Jan 2006"
  [[item]]
   organization = "Teaching of psychology, 15: 1384470"
   organization_url = ""
-  title = "Bauer, Gerrit, Breznau, Nate, Gereke, Johanna, Höffler, Jan, Janz, Nicole, Rahal, Rima-Maria, Rennstich, Joachim and Soiné, Hannah (2023)  Teaching Constructive Replications in the Behavioral and Social Sciences Using Quantitative Data
+  title = "Bauer, Gerrit, Breznau, Nate, Gereke, Johanna
 "
   url = "https://doi.org/10.1177/0098628323121"
   certificate_url = ""
