@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = "How does prosocial behavior extend beyond in-group boundaries in multiethnic societies? The differentiation of Western societies presents an opportunity to understand the tension between societal pressures that push people outside the comfort zones of their familiar networks to constructively interact with unknown diverse others and the tendency toward homophily and in-group favoritism. We introduce a three-step model of out-group exposure that includes macrostructural conditions for intergroup encounters and microlevel dynamics of intergroup selection and interaction. Using lab-in-the-field experiments with a large representative sample of Italian natives and immigrants from the multiethnic city of Milan, we find that, when pushed to interact with non-coethnics, Italians generally treat them similarly to how they treat coethnics and value signs of social and market integration. However, when given the opportunity to select their interaction partners, Italians favor coethnics over immigrants. Taken together, these results help reconcile classical findings concerning the positive effects of intergroup contact with evidence documenting the persistence of out-group discrimination in selection processes."
 
 [[item]]
+  organization = "Frontiers in psychology, 15: 1384470"
+  organization_url = ""
+  title = "Hellyer, Joshua, and Gereke, Johanna (2024) The shadow of fear: hate crime victimization and stress after Charlottesville"
+  url = "https://doi.org/10.3389/fpsyg.2024.1384470"
+  certificate_url = ""
+  date_start = "2024-27-06"
+  date_end = ""
+  description = "Recent years have witnessed an increase in highly publicized attacks against members of minority groups. To date, scholarship has primarily focused on the tendency for such trigger events to generate violent aftershocks. However, we hypothesize that trigger events create a climate of fear that may also significantly impact minorities’ mental health and well-being. To test our conjuncture, we draw upon both national survey data as well as federal hate crime data in combination with a natural experiment involving the Unite the Right rally and vehicle attack in Charlottesville, Virginia. We first show that there was an increase in anti-Black hate crimes in the two weeks following Charlottesville. We also link the Charlottesville attack to an increase in stress about personal hate crime victimization among African-Americans. Interestingly, these results are confined to African-Americans, suggesting that both violent aftershocks and the general climate of fear may be racially bounded."
+  
+[[item]]
   organization = "American Journal of Sociology, Volume 129 Number 2 (September 2023): 570-585"
   organization_url = ""
   title = "Kretschmer, David, Gereke, Johanna, Winter, Fabian and Zhang, Nan (2023) No differential effects of classroom ethnic composition on native and immigrant friendship segregation: Comment on Smith et al., 2016"
