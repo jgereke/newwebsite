@@ -17,6 +17,42 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Sociological Science 11: 815-853."
+  organization_url = ""
+  title = "Baldassarri, Delia, Gereke, Johanna, and Schaub, Max (2024) Prosociality Beyond In-Group Boundaries: A Lab-in-the-Field Experiment on Selection and Intergroup Interactions in a Multiethnic European Metropolis"
+  url = "https://doi.org/10.15195/v11.a30"
+  certificate_url = ""
+  date_start = "2024-06-09"
+  date_end = ""
+  description = "How does prosocial behavior extend beyond in-group boundaries in multiethnic societies? The differentiation of Western societies presents an opportunity to understand the tension between societal pressures that push people outside the comfort zones of their familiar networks to constructively interact with unknown diverse others and the tendency toward homophily and in-group favoritism. We introduce a three-step model of out-group exposure that includes macrostructural conditions for intergroup encounters and microlevel dynamics of intergroup selection and interaction. Using lab-in-the-field experiments with a large representative sample of Italian natives and immigrants from the multiethnic city of Milan, we find that, when pushed to interact with non-coethnics, Italians generally treat them similarly to how they treat coethnics and value signs of social and market integration. However, when given the opportunity to select their interaction partners, Italians favor coethnics over immigrants. Taken together, these results help reconcile classical findings concerning the positive effects of intergroup contact with evidence documenting the persistence of out-group discrimination in selection processes."
+
+[[item]]
+  organization = "Frontiers in psychology, 15: 1384470"
+  organization_url = ""
+  title = "Hellyer, Joshua, and Gereke, Johanna (2024) The shadow of fear: hate crime victimization and stress after Charlottesville"
+  url = "https://doi.org/10.3389/fpsyg.2024.1384470"
+  certificate_url = ""
+  date_start = "2024-27-06"
+  date_end = ""
+  description = "Recent years have witnessed an increase in highly publicized attacks against members of minority groups. To date, scholarship has primarily focused on the tendency for such trigger events to generate violent aftershocks. However, we hypothesize that trigger events create a climate of fear that may also significantly impact minorities’ mental health and well-being. To test our conjuncture, we draw upon both national survey data as well as federal hate crime data in combination with a natural experiment involving the Unite the Right rally and vehicle attack in Charlottesville, Virginia. We first show that there was an increase in anti-Black hate crimes in the two weeks following Charlottesville. We also link the Charlottesville attack to an increase in stress about personal hate crime victimization among African-Americans. Interestingly, these results are confined to African-Americans, suggesting that both violent aftershocks and the general climate of fear may be racially bounded."
+
+[[item]]
+  organization = "Teaching of psychology, 15: 1384470"
+  organization_url = ""
+  title = "Bauer, Gerrit, Breznau, Nate, Gereke, Johanna,  Höffler, Jan H., Janz, Nicole  Rahal, Rima-Maria  Rennstich, Joachim K. and Soiné, Hannah (2023)  Teaching Constructive Replications in the Behavioral and Social Sciences Using Quantitative Data
+"
+  url = "https://doi.org/10.1177/0098628323121"
+  certificate_url = ""
+  date_start = "2024-01-01"
+  date_end = ""
+  description = "Introduction: The replication crisis in the behavioral and social sciences spawned a credibility revolution, calling for new open science research practices that ensure greater transparency, including preregistrations, open data and code, and open access.
+Statement of the Problem: Replications of published research are an important element in this revolution as part of the self-correcting process of scientific knowledge production; however, the teaching value of replications is still underutilized thus far.
+Literature Review: Pedagogical knowledge points to the value of replication as critical to the scientific method of test and retest. Psychology has already begun mass efforts to reproduce previous experiments. Yet, we have very few examples of how analytical and reanalysis replications, after the data come in, contribute to the reproducibility crisis and can be integrated into undergraduate and graduate courses.
+Teaching Implications: Replications with quantitative data can be a pedagogical tool for improving student research method skills and introducing them to best research practices via learning-by-doing.
+Conclusion:This article aims to start filling this gap by offering guidance to instructors in designing and teaching replications for students at various levels and disciplines in the social and behavioral sciences, including a supplementary teaching companion."
+
 [[item]]
   organization = "American Journal of Sociology, Volume 129 Number 2 (September 2023): 570-585"
   organization_url = ""
