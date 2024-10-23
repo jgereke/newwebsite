@@ -77,7 +77,7 @@ I am currently a postdoctoral fellow at the Mannheim Centre for European Social 
 
 Recently, I have also been an Interim Professor ("Vertretungsprofessur") of Quantitative Methods and Economic Sociology at the Johannes Gutenberg University, Mainz (2023-2024). Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
 
-I am an elected member of "Die Junge Akademie," a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina from 2021-2026. Together with my colleagues, we have recently published a guideline and practical advice for effective science communication (in German), which can be found [here](https://www.diejungeakademie.de/media/pages/publikationen/wissen-kommunizieren/cca574d2e0-1729600037/2024_leitfaden_wissen_kommunizieren.pdf).
+I am an elected member of "Die Junge Akademie," a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina from 2021-2026. Together with my colleagues, we have recently published a guideline and practical advice for effective science communication (in German).
 
 Together with Prof. Reinhard Schunck (University of Wuppertal), I am the PI of the research project "Pretty Integrated? Perceptions of immigrants’ physical attractiveness and consequences for integration outcomes" financed by the German Research Foundation (DFG) (2021-2025). In September 2024, I was honored to receive the Best Reviewer Award from the European Sociological Review. 
 
