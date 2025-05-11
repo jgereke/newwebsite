@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: research fellow at BiB and MZES
+role: research fellow at the BiB and MZES
 
 # Organizations/Affiliations
 organizations:
-- name: Federal Institute of Population Research and Mannheim Centre for European Social Research
+- name: Federal Institute of Population Research (BiB) and Mannheim Centre for European Social Research (MZES)
   url: "https://www.mzes.uni-mannheim.de/d7/en"
 
 # Short bio (displayed in user profile at end of posts)
