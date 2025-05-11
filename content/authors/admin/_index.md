@@ -15,7 +15,7 @@ role: research fellow at the BiB and MZES
 # Organizations/Affiliations
 organizations:
 - name: Federal Institute of Population Research (BiB) and Mannheim Centre for European Social Research (MZES)
-  url: "https://www.bib.bund.de/EN/Home.html" and "https://www.mzes.uni-mannheim.de/d7/en"
+  url: "https://www.mzes.uni-mannheim.de/d7/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include intergroup relations, migration and discrimination and cooperative behavior in modern societies.
