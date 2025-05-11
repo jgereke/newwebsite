@@ -15,7 +15,7 @@ role: research fellow at the BiB and MZES
 # Organizations/Affiliations
 organizations:
 - name: Federal Institute of Population Research (BiB) and Mannheim Centre for European Social Research (MZES)
-  url: "https://www.mzes.uni-mannheim.de/d7/en"
+  url: "https://www.bib.bund.de/EN/Home.html" and "https://www.mzes.uni-mannheim.de/d7/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include intergroup relations, migration and discrimination and cooperative behavior in modern societies.
@@ -60,7 +60,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "johannakatharina.gereke@bib.bund.de" or "johanna.gereke@uni-mannheim.de" 
+email: "johanna.gereke@uni-mannheim.de" 
 #"johanna.gereke@mzes.uni-mannheim.de"
 #I recently joined the Federal Institute for Population Research (BiB) and I continue to hold a research fellowship at the MZES. Previously, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy #at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, #Italy.
 #Please see my full CV <a #href="https://static1.squarespace.com/static/5c2a692b3c3a53368708cebf/t/5c2bd39f1ae6cf9b885fd512/1546376096123/CV_Jgereke.pdf"/> 
