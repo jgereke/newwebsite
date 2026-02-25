@@ -48,6 +48,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Does immigration-driven ethnic diversity erode support for redistribution? A key claim is that as minorities are viewed as “undeserving” welfare beneficiaries, diversity reduces support for welfare spending or fuels welfare chauvinism. Yet evidence remains mixed, partly because most studies rely on correlational data. We address this with a large pre-registered field experiment in greater Copenhagen. Supermarket shoppers were invited to sign petitions proposing either a general increase in welfare benefits or the equalization of benefits between immigrants and long-term residents. Petition materials randomly varied the ethnic appearance (Arabic vs. Nordic) of a depicted welfare-receiving family. Across more than 4,000 field observations, we find that the ethnic framing affects the willingness to increase welfare benefits, while attitudes toward equalizing benefits were largely unaffected by ethnicity. We find no consistent contextual moderation by neighborhoods. Our study offers behavioral and causal evidence on how policy framings shape redistributive behavior." 
   
-<img width="944" height="39" alt="image" src="https://github.com/user-attachments/assets/68112ce2-3d94-4c3b-8b32-601eec06037b" />
-
 +++
