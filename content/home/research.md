@@ -19,16 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "with Marlene Mußotter"
-  organization_url = ""
-  title = "When Status Isn’t Enough: Unequal Returns to Status for Veiled and Unveiled Immigrant-Origin Women in Germany"
-  url = ""
-  certificate_url = ""
-  date_start = "2026-02-25"
-  date_end = ""
-  description = "The Islamic headscarf is one of the most visible markers of Muslim identity, often associated with cultural difference and social exclusion in Western societies. Yet little research has examined how veiling might impact broader social perceptions of immigrant minority women, particularly in interaction with markers of high socioeconomic status. In this study, we test how the Muslim headscarf and high socioeconomic status shape natives' perceptions of trustworthiness of Turkish-origin women. We draw on a vignette experiment embedded in a nationwide survey in Germany, in which we systematically varied the presence of a headscarf (veil vs. no veil) using photo stimuli and signals of a high-status occupation (present vs. absent) presented in a hypothetical lost wallet scenario. We find that high-status cues significantly increase perceived trustworthiness for unveiled Turkish-origin women, but not for veiled women, indicating that the symbolic meanings attached to the headscarf constrain the social returns of socioeconomic attainment. Moreover, these effects are moderated by respondents’ attitudes towards Muslims. Among respondents with positive attitudes, veiled women with high-status occupation are perceived as most trustworthy, whereas among respondents with negative attitudes, higher levels of perceived trustworthiness are attributed to unveiled women with high-status occupation. Together, these findings highlight the unequal returns to status for veiled and unveiled immigrant-origin women in Germany and underscore how symbolic group boundaries and respondent attitudes shape trust judgments."
-
-[[item]]
 organization = "with Nan Zhang, Sofie Andersen, Mikkel Haderup Larsen and Merlin Schaeffer"
 organization_url = ""
 title = "Signing for Solidarity"
