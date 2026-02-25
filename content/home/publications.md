@@ -18,37 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[item]]
-  organization = "PNAS 123 (7)"
-  organization_url = ""
-  title = "Hellyer, Gereke, Aksoy, Hellriegel, Schunck (2026) Religious markers reduce perceived trustworthiness in a Muslim-majority country"
-  url = "https://doi.org/10.1073/pnas.2512131123"
-  certificate_url = ""
-  date_start = "2025-10-02"
-  date_end = ""
-  description = "First impressions often hinge on visible cues, leading people to infer the trustworthiness of strangers from their appearance and dress. While religiosity is generally associated with greater perceived trustworthiness, little is known about how visible religious markers, such as clothing and grooming styles, shape trust judgments in Muslim-majority societies, where such signals are widespread and easily recognizable. We examine this question using a large-scale vignette experiment embedded in a nationally representative face-to-face survey in Turkey. By experimentally varying profile characteristics, we identify the causal effect of a Muslim headscarf or beard on perceived trustworthiness. Contrary to expectations, individuals displaying these religious badges are generally viewed as less trustworthy than otherwise identical profiles, even by highly religious respondents. Mediation analyses show that these effects arise because religious badges signal multiple attributes, not only religiosity but also political orientation and physical attractiveness — and that these inferred meanings differ by gender: women’s headscarves and men’s beards prompt distinct patterns of inference. These findings show that visible religious markers shape trust judgments through multivalent social inferences rather than perceived piety alone. The results highlight how observers draw on broader social and political associations when interpreting religious markers, providing evidence on how public expressions of religion affect everyday trust judgments."
-
-  [item]]
-  organization = "European Sociological Review 41, 935–950"
-  organization_url = ""
-  title = "Schunck, Gereke, Hellriegel (2025) Gendered beauty inequalities? A multiverse analysis of physical attractiveness, occupational gender-typicality and earnings in the German labour market"
-  url = "https://doi.org/10.1093/esr/jcaf008"
-  certificate_url = ""
-  date_start = "2025-05-04"
-  date_end = ""
-  description = "How do returns to physical attractiveness in the labour market vary depending on the alignment between an employee’s gender and the gender composition of their occupation? Research suggests that attractiveness often invokes gender-typical stereotypes. If these stereotypes imply a mismatch between what are considered to be necessary traits in an occupation and those which are ascribed to a person, this may lead to penalties for attractive individuals with a weak trait-job fit. To test this proposition, we combine longitudinal data from the German Family Panel (pairfam) including interviewer ratings of attractiveness with official statistics on occupational gender segregation. Employing a multiverse analysis across 6,912 model specifications, we consistently find positive associations between individuals’ attractiveness and their earnings for both women and men. However, we
-do not find evidence that attractive individuals face earnings penalties when employed in occupations typically dominated by the
-opposite gender."
-  
-[item]]
-  organization = "European Societies 27 (4):697-723"
-  organization_url = ""
-  title = "Gereke, Helbling, Kommol, Ünal, Szafran, Visser-Koomson (2025) The effects of Muslim immigration and demographic change on group boundaries in Germany"
-  url = "https://doi.org/10.1162/euso_a_00038"
-  certificate_url = ""
-  date_start = "2025-09-01"
-  date_end = ""
-  description = "Increasing ethnic and religious diversity in many Western societies has sparked research on the consequences of this demographic change on intergroup relations. The impact of Muslim immigration in Europe has become a particularly salient topic in political debates. Yet, the effects of prospective immigrant population growth and the numerical increase of Muslims on group boundaries remain unclear. In this study, we examine how respondents belonging to the majority group react to information about demographic shifts, and how these shifts affect group boundaries using a survey experiment in Germany. Our results show that exposure to information about either a growing number of immigrants in general or specifically Muslims increases perceptions of threat among majority group members. This leads them to more frequently categorize individuals with ambiguous German / Middle Eastern and North African (MENA) features as likely having a migration background, particularly when the information specifically highlights the demographic increase of the Muslim population. However, the contraction of the group boundary in response to this information is modest. Further, the perceived status threat associated with demographic shifts leads to an increase in negative sentiments towards individuals perceived to have MENA physical characteristics. These findings contribute to a growing literature on the consequences of demographic change, the inclusion and discrimination of Muslim immigrant minorities, and the delineation of group boundaries in diverse European societies."
 
 [[item]]
   organization = "Sociological Science 11: 815-853."
