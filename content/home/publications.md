@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[item]]
+  organization = "European Societies 27 (4):697-723"
+  organization_url = ""
+  title = "Gereke, Helbling, Kommol, Ünal, Szafran, Visser-Koomson (2025) The effects of Muslim immigration and demographic change on group boundaries in Germany "
+  url = "https://doi.org/10.1162/euso_a_00038"
+  certificate_url = ""
+  date_start = "2025-09-01"
+  date_end = ""
+  description = "Increasing ethnic and religious diversity in many Western societies has sparked research on the consequences of this demographic change on intergroup relations. The impact of Muslim immigration in Europe has become a particularly salient topic in political debates. Yet, the effects of prospective immigrant population growth and the numerical increase of Muslims on group boundaries remain unclear. In this study, we examine how respondents belonging to the majority group react to information about demographic shifts, and how these shifts affect group boundaries using a survey experiment in Germany. Our results show that exposure to information about either a growing number of immigrants in general or specifically Muslims increases perceptions of threat among majority group members. This leads them to more frequently categorize individuals with ambiguous German / Middle Eastern and North African (MENA) features as likely having a migration background, particularly when the information specifically highlights the demographic increase of the Muslim population. However, the contraction of the group boundary in response to this information is modest. Further, the perceived status threat associated with demographic shifts leads to an increase in negative sentiments towards individuals perceived to have MENA physical characteristics. These findings contribute to a growing literature on the consequences of demographic change, the inclusion and discrimination of Muslim immigrant minorities, and the delineation of group boundaries in diverse European societies."
+
 [[item]]
   organization = "Sociological Science 11: 815-853."
   organization_url = ""
