@@ -73,14 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am currently a research fellow at the Federal Institute for Population Research (BiB) and a postdoctoral fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on intergroup relations, migration, discrimination and cooperative behavior in modern societies. Other research projects examine the preceptions and consequencs of physical attractiveness. My research draws on a range of experimental and quasi-experimental methods, including original lab-in-the-field, survey and field experiments.
+I am currently a research fellow at the Federal Institute for Population Research (BiB) and a postdoctoral fellow at the Mannheim Centre for European Social Research (MZES). My current research focuses on migration, immigrant integration, intergroup relations, discrimination and trust and cooperative behavior in modern societies. Other research projects examine the preceptions and consequencs of physical attractiveness and how social cues, such as religiosity, shape trust and cooperation. My research draws on a range of experimental and quasi-experimental methods and connects insights from sociology, political science, economics and social psychology.
 
-Recently, I have also been an Interim Professor ("Vertretungsprofessur") of Quantitative Methods and Economic Sociology at the Johannes Gutenberg University, Mainz (2023-2024). Prior to joining the MZES, I held a postdoctoral position at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy at Bocconi University in Milan, Italy. I hold a Ph.D. in Social and Political Sciences from the European University Institute in Florence, Italy.
-
-I am an elected member of "Die Junge Akademie," a joint project of the Berlin-Brandenburg Academy of Sciences and Humanities and the German National Academy of Sciences Leopoldina from 2021-2026. Together with my colleagues, we have recently published a guideline and practical advice for effective science communication (in German).
-
-Together with Prof. Reinhard Schunck (University of Wuppertal), I am the PI of the research project "Pretty Integrated? Perceptions of immigrants’ physical attractiveness and consequences for integration outcomes" financed by the German Research Foundation (DFG) (2021-2025). In September 2024, I was honored to receive the Best Reviewer Award from the European Sociological Review. 
-
-
+I have previously served as Interim Professor of Quantitative Methods and Economic Sociology at the Johannes Gutenberg University Mainz and held postdoctoral positions at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy. I received my Ph.D. from the European University Institute (EUI). I am an elected member of Die Junge Akademie, where I co-authored a recent guideline on effective science communication. Together with Prof. Reinhard Schunck, I lead the DFG-funded project “Pretty Integrated?” on perceptions of immigrants’ physical attractiveness. In 2024, I received the Best Reviewer Award from the European Sociological Review.
 
  
