@@ -19,22 +19,34 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Gereke, Helbling, Kommol, Ünal, Szafran, Visser-Koomson"
+  organization = "with Marlene Mußotter"
   organization_url = ""
-  title = "The effects of Muslim immigration and demographic change on group boundaries in Germany"
+  title = "When Status Isn’t Enough: Unequal Returns to Status for Veiled and Unveiled Immigrant-Origin Women in Germany"
   url = ""
   certificate_url = ""
   date_start = "2023-10-28"
   date_end = ""
-  description = "Increasing ethnic and religious diversity in many Western societies has sparked research on the consequences of this demographic change on intergroup relations. The impact of Muslim immigration in Europe has become a particularly salient topic in the political debate. Yet, it is unclear how prospective immigrant population growth and the numeric increase of Muslims impact group boundaries. We use a survey experiment to examine the effects of demographic shifts on how the majority draws group boundaries in Germany. The results show that information about a growing share of immigrants or Muslims increases perceptions of threat, leading Germans to classify ambiguous German / Middle Eastern and North African (MENA) as more likely to have a migration background. Further, such information increases negative feelings towards individuals with unambiguous MENA physical appearance. These findings contribute to a growing literature on demographic change and how group boundaries are drawn in diverse European societies."
+  description = "The Islamic headscarf is one of the most visible markers of Muslim identity, often associated with cultural difference and social exclusion in Western societies. Yet little research has examined how veiling might impact broader social perceptions of immigrant minority women, particularly in interaction with markers of high socioeconomic status. In this study, we test how the Muslim headscarf and high socioeconomic status shape natives' perceptions of trustworthiness of Turkish-origin women. We draw on a vignette experiment embedded in a nationwide survey in Germany, in which we systematically varied the presence of a headscarf (veil vs. no veil) using photo stimuli and signals of a high-status occupation (present vs. absent) presented in a hypothetical lost wallet scenario. We find that high-status cues significantly increase perceived trustworthiness for unveiled Turkish-origin women, but not for veiled women, indicating that the symbolic meanings attached to the headscarf constrain the social returns of socioeconomic attainment. Moreover, these effects are moderated by respondents’ attitudes towards Muslims. Among respondents with positive attitudes, veiled women with high-status occupation are perceived as most trustworthy, whereas among respondents with negative attitudes, higher levels of perceived trustworthiness are attributed to unveiled women with high-status occupation. Together, these findings highlight the unequal returns to status for veiled and unveiled immigrant-origin women in Germany and underscore how symbolic group boundaries and respondent attitudes shape trust judgments."
 
   [[item]]
-  organization = "Gereke, Hellyer, Fadavi, Zhang"
+  organization = "with Yavar Fadavi Asghari and NanZhang"
   organization_url = ""
-  title = "Religion, Religiosity and Perceived Trustworthiness: Experimental Evidence from a Vignette Study in Germany"
+  title = "Signaling Trustworthiness: Muslim Religiosity and Intergroup Trust"
   url = ""
   certificate_url = ""
   date_start = "2023-10-28"
   date_end = ""
-  description = "Muslim immigrants in European societies are commonly perceived to be more religious than their Christian counterparts.  Moreover, since traditional religious beliefs and practices often run counter to modern, liberal values, Muslims' religiosity is argued to contribute to an additional burden of prejudice directed at religious (but not secular) Muslims.  At the same time, could Muslims' religiosity paradoxically increase their perceived trustworthiness?  Building on evidence from recent research suggesting that religiosity functions as a costly signal of benevolent intentions, we test the hypothesis that religious Muslims are more trusted than their secular counterparts. We present evidence from a survey experiment embedded within the German Internet Panel, a random offline recruited probability sample of the general population in Germany aged 16-75, in which respondents are presented with a hypothetical lost wallet scenario. Our design varies both the religious heritage (Muslim vs. Christian) and religiosity (highly religious vs. secular vs. atheist) of the wallet's finder and measure beliefs about the likelihood that the wallet will be returned."
+  description = "Muslims in European societies are often perceived as more religious than their Christian counterparts. Such perceptions contribute to Islamophobia rooted in  cultural conflict between Muslim traditions and liberal, secular values. Yet religiosity may also function as a beneficial signal in social exchange, communicating moral commitment and prosocial intentions. Drawing on signaling theory, this study examines whether visible expressions of Muslim religiosity foster trust in interpersonal interactions. We conducted a lab-in-the-field experiment with commuters at a German train station involving an incentivized trust game and real monetary stakes. The trustee’s identity was experimentally varied along two dimensions: (i) migration background and (ii) putative religiosity signaled through Islamic attire. Results show that Islamic religious signals increase trust toward individuals with a migration background, effectively closing the “trust gap” between trustees with and without migration background. These findings reveal how religiosity can regulate trust in intergroup exchanges, illuminating its dual role as both a boundary marker and a bridge for cooperation in diverse societies."
+
+  [[item]]
+  organization = "with Nan Zhang, Sofie Andersen, Mikkel Haderup Larsen and Merlin Schaeffer"
+  organization_url = ""
+  title = "Signing for Solidarity"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-10-28"
+  date_end = ""
+  description = "Does immigration-driven ethnic diversity erode support for redistribution? A key claim is that as minorities are viewed as “undeserving” welfare beneficiaries, diversity reduces support for welfare spending or fuels welfare chauvinism. Yet evidence remains mixed, partly because most studies rely on correlational data. We address this with a large pre-registered field experiment in greater Copenhagen. Supermarket shoppers were invited to sign petitions proposing either a general increase in welfare benefits or the equalization of benefits between immigrants and long-term residents. Petition materials randomly varied the ethnic appearance (Arabic vs. Nordic) of a depicted welfare-receiving family. Across more than 4,000 field observations, we find that the ethnic framing affects the willingness to increase welfare benefits, while attitudes toward equalizing benefits were largely unaffected by ethnicity. We find no consistent contextual moderation by neighborhoods. Our study offers behavioral and causal evidence on how policy framings shape redistributive behavior." 
+<img width="944" height="39" alt="image" src="https://github.com/user-attachments/assets/68112ce2-3d94-4c3b-8b32-601eec06037b" />
+
 +++
