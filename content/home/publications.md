@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+  [[item]]
+  organization = "European Sociological Review 41, 935–950"
+  organization_url = ""
+  title = "Schunck, Gereke, Hellriegel (2025) Gendered beauty inequalities? A multiverse analysis of physical attractiveness, occupational gender-typicality and earnings in the German labour market"
+  url = "https://doi.org/10.1093/esr/jcaf008"
+  certificate_url = ""
+  date_start = "2025-05-04"
+  date_end = ""
+  description = "How do returns to physical attractiveness in the labour market vary depending on the alignment between an employee’s gender and the gender composition of their occupation? Research suggests that attractiveness often invokes gender-typical stereotypes. If these stereotypes imply a mismatch between what are considered to be necessary traits in an occupation and those which are ascribed to a person, this may lead to penalties for attractive individuals with a weak trait-job fit. To test this proposition, we combine longitudinal data from the German Family Panel (pairfam) including interviewer ratings of attractiveness with official statistics on occupational gender segregation. Employing a multiverse analysis across 6,912 model specifications, we consistently find positive associations between individuals’ attractiveness and their earnings for both women and men. However, we
+do not find evidence that attractive individuals face earnings penalties when employed in occupations typically dominated by the
+opposite gender."
+  
 [[item]]
   organization = "European Societies 27 (4):697-723"
   organization_url = ""
