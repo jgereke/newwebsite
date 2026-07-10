@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: research fellow at the BiB and external fellow at the MZES
+role: Research fellow at the BiB and external fellow at the MZES
 
 # Organizations/Affiliations
 organizations:
@@ -32,9 +32,6 @@ interests:
 
 education:
   courses:
-  - course: Postdoctoral researcher at the Carlo F. Dondena Centre for Research on Social Dynamics and Public Policy
-    institution: Bocconi University in Milan, Italy
-    year: 2018
   - course: Ph.D. in Social and Political Sciences
     institution: European University Institute in Florence, Italy
     year: 2016
