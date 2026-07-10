@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: research fellow at the BiB and MZES
+role: research fellow at the BiB and external fellow at the MZES
 
 # Organizations/Affiliations
 organizations:
